@@ -3,8 +3,9 @@
 
 #### Source code by Joel W. Walker, updated and adapted by Jorge D. Morales
 
-___
+For problems regarding adaptions to the Brazos Cluster contact Jorge D. Morales (via gitHub)
 
+___
 
 ### The orginal README file from the source: 
 
