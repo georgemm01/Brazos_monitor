@@ -1,4 +1,13 @@
 
+# Brazos Copy of the CMS Tier3 Site Monitor 
+
+#### Source code by Joel W. Walker, updated and adapted by Jorge D. Morales
+
+___
+
+
+### The orginal README file from the source: 
+
 Thanks for your interest in installing "Brazos", the CMS Tier 3 Site Monitor!
 
 If you have any questions, requests or suggestions please email Joel Walker: jwalker@shsu.edu
@@ -18,17 +27,17 @@ The prototype monitoring installation at Texas A&M is viewable here:
 	http://brazos.tamu.edu/~ext-jww004/mon/
 
 There are several prerequisites that should be in place for proper installation and functioning:
-	* A clean account on the host cluster - we suggest "brazos" as the username
-	* Allocation of ~ 2 GB disk capacity quota
-	* Allocation of ~ 100,000+ filename inode quota
-	* Linux shell: /bin/sh & /bin/bash
-	* Apache web server with SSI enabled for .html or .shtml (or available via .htaccess)
-	* An HTML document root directory that publishes to the web (e.g. ~/public_html or ~/httpdocs)
-	* Perl and a CGI-BIN script alias web directory (e.g. ~/public_html/cgi-bin)
-	* Standard build tools, e.g. make, cpan, gcc
-	* Access to web via lwp-download, curl or wget, etc.
-	* Group member access to common CMS data disk partition
-	* Job scheduling via crontab
+	- A clean account on the host cluster - we suggest "brazos" as the username
+	- Allocation of ~ 2 GB disk capacity quota
+	- Allocation of ~ 100,000+ filename inode quota
+	- Linux shell: /bin/sh & /bin/bash
+	- Apache web server with SSI enabled for .html or .shtml (or available via .htaccess)
+	- An HTML document root directory that publishes to the web (e.g. ~/public_html or ~/httpdocs)
+	- Perl and a CGI-BIN script alias web directory (e.g. ~/public_html/cgi-bin)
+	- Standard build tools, e.g. make, cpan, gcc
+	- Access to web via lwp-download, curl or wget, etc.
+	- Group member access to common CMS data disk partition
+	- Job scheduling via crontab
 
 The tar-zipped distribution that you have now unpacked should have created a single directory "brazos"
 holding all the files essential to installing the Brazos monitor, including this README file.
@@ -41,10 +50,10 @@ not currently at the base of the monitoring user's home directory (use "ls ~/bra
 it must be moved there "mv brazos ~/" before proceeding.
 
 To Install:
-	* Navigate "cd ~/brazos" into the monitoring distribution directory.
-	* Run the configuration script "./configure.pl" and answer the required questions
-	* Run make to locally install libraries and system files "make"
-	* Re-enter the shell to source the new environment "exec bash"
+	- Navigate "cd ~/brazos" into the monitoring distribution directory.
+	- Run the configuration script "./configure.pl" and answer the required questions
+	- Run make to locally install libraries and system files "make"
+	- Re-enter the shell to source the new environment "exec bash"
 
 The above steps should be all that is required to establish a minimal monitoring installation.
 However, it is likely that unanticipated system configurations will sometimes break this
