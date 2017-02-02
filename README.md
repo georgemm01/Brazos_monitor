@@ -27,6 +27,7 @@ The prototype monitoring installation at Texas A&M is viewable here:
 	http://brazos.tamu.edu/~ext-jww004/mon/
 
 There are several prerequisites that should be in place for proper installation and functioning:
+
 	- A clean account on the host cluster - we suggest "brazos" as the username
 	- Allocation of ~ 2 GB disk capacity quota
 	- Allocation of ~ 100,000+ filename inode quota
@@ -39,6 +40,7 @@ There are several prerequisites that should be in place for proper installation 
 	- Group member access to common CMS data disk partition
 	- Job scheduling via crontab
 
+
 The tar-zipped distribution that you have now unpacked should have created a single directory "brazos"
 holding all the files essential to installing the Brazos monitor, including this README file.
 
@@ -50,10 +52,12 @@ not currently at the base of the monitoring user's home directory (use "ls ~/bra
 it must be moved there "mv brazos ~/" before proceeding.
 
 To Install:
+
 	- Navigate "cd ~/brazos" into the monitoring distribution directory.
 	- Run the configuration script "./configure.pl" and answer the required questions
 	- Run make to locally install libraries and system files "make"
 	- Re-enter the shell to source the new environment "exec bash"
+
 
 The above steps should be all that is required to establish a minimal monitoring installation.
 However, it is likely that unanticipated system configurations will sometimes break this
