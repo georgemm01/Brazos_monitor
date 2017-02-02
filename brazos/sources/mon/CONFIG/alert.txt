@@ -7,51 +7,51 @@
 
 <ALERT=UPGRADE>
 	<ACTIVE=NULL>
-	<TEXT=The Brazos CMS Monitor has been upgraded to Version [1]>
+	<TEXT=The Brazos Monitor has been upgraded to Version [1]>
 	<TITLE=Brazos System Upgrade>
 	<LONG=This alert code is strictly informational, indicating the success of a routine automated system upgrade.  No action is required by the recipient.>
 
 <ALERT=PROD_QUAL>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=Low Production Data Transfer Quality ([1]% PASS)>
 	<TITLE=Data Transfer Quality>
 	<PLOT=transfer_quality_prod_hourly>
 	<LONG=PhEDEx production data transfer quality is monitored by graphically sampling the corresponding 48 hour plot (Page I) retrieved from the CMS Dashboard.  This alert is triggered if the score, averaged over the most recent data element in each individual row for the preceding two hours, is less than 75%.  There is no corresponding alert for absent reporting, as data transfers are inherently intermittent.>
 
 <ALERT=LOAD_QUAL>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=Low Load Test Data Transfer Quality ([1]% PASS)>
 	<TITLE=Load Test Transfer Quality>
 	<PLOT=transfer_quality_load_hourly>
 	<LONG=PhEDEx load test data transfer quality is monitored by graphically sampling the corresponding 48 hour plot (Page I) retrieved from the CMS Dashboard.  This alert is triggered if the score, averaged over the most recent data element in each individual row for the preceding six hours (to incorporate a full test period), is less than 50%.  Missing test blocks do not count against the average score, although there is a separate test for the absence of data reporting.>
 
 <ALERT=LOAD_SKIP>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=Load Tests Not Running or Query Timed Out>
 	<TITLE=Load Tests Missing>
 	<PLOT=transfer_quality_load_hourly>
 	<LONG=This alert is triggered (and supersedes the "Load Test Transfer Quality" alert) if less than 50% of the possible load test data transfer scoring rows (Page I) are populated for the preceding six hour interval.>
 
 <ALERT=PHDX_TRANSFER>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=PhEDEx Not Transferring Subscribed Data ([1] of [2] at [3]/s)>
 	<TITLE=PhEDEx Transfer>
 	<LONG=This alert is triggered by a slow data transfer rate in conjunction with a standing data transfer request, as reported through the PhEDEx system on Page I.  Specifically, the transfer rate must be below 10 MiB/s, the non-resident subscribed data must amount to at least 10 GiB, and either i) no data is yet resident or ii) the subscribed data total exceeds the resident data by at least 5%.>
 
 <ALERT=PHDX_CORRUPT>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=PhEDEx Data Download is Corrupt for File(s):[1]>
 	<TITLE=PhEDEx Corruption>
 	<LONG=This alert is triggered when tabular data downloaded from the PhEDEx system is corrupt, and no recent backup data is available.  Brazos attempts first to repeat the problematic download up to two times, and if still unsuccessful, reverts to an older captured data state.  If archival records do not exist, or are more than 6 hours out of date, this warning ensues.>
 
 <ALERT=GRAB_DU>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=Encountered Problems with Cluster Disk Usage Statistics[1]>
 	<TITLE=Disk Usage>
 	<LONG=This alert is triggered by various problems that may occur while performing a routine disk usage "du" query (Page II) on the local cluster.  The list of possible violations includes: i) The end of process self-summary of I/O status indicates errors or is missing; ii) The process run time exceeds 30 minutes, indicating a high system load or trouble with the file system - completion is typically expected in less than 5 minutes; iv) The process execution was delayed for more than three hours due to heavy loads on the local cluster.  Additional details regarding the trigger mechanism(s) are provided within the alert.>
 
 <ALERT=DISK_QUOTA>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=Disk Usage Approaching Quota ([1] of [2])>
 	<TEXT_3=Disk Usage Exceeds Quota ([1] of [2])>
 	<TITLE=Disk Quota>
@@ -59,56 +59,57 @@
 	<LONG=This alert is triggered if the HEPX disk usage reported by the "du" command on the local cluster (Page II) exceeds a defined threshold.>
 
 <ALERT=DISK_DENIED>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=Disk Usage Permissions Error ([1])>
 	<TITLE=Disk Permissions>
 	<EMAIL=-galmes@tamu.edu>
 	<LONG=This alert is triggered if the HEPX disk usage "du" query on the local cluster (Page II) encounters a directory whose permissions do not allow its contents to be tallied.  To fix this, all subdirectories in the user's home folder should be made group (hepx) readable and executable with the command "find ./ -type d | xargs chmod g+rx".  Note that this does not affect any permissions protecting file ownership.>
 
 <ALERT=PHDX_MISMATCH>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=Disk Usage Mismatch ([1] Local Disk vs. [2] PhEDEx Resident)>
 	<TITLE=PhEDEx Mismatch>
 	<LONG=This alert is triggered if the (Page II) data holdings reported by the PhEDEx system are not synchronized with the quantity established locally for the Monte Carlo, CMS Data and Load Test directories by use of the "du" command on the local cluster.  Specifically, at least one of three criteria must be met: i) There is no local data reported; ii) The percentage difference in data exceeds 5%; iii) The absolute difference in data exceeds 500 GiB.  This alert may be triggered spuriously by temporary disagreements in reporting during heavy data transfers.>
 
 <ALERT=TORQUE_STALL>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=Torque Queue Jobs Stalled (USER: [1])>
 	<TITLE=Torque Stalled>
-	<LONG=This alert is triggered if the "qstat" command on the local cluster reports that jobs managed by the TORQUE scheduler unexpectedly exist in the "Held" or "Suspended" states.  Details of stopped jobs are highlighted in red on Page III.  The GRID and BGSC queues (within which jobs may be preempted by design) are exempted from this alert, although the red coloration is retained.>
+	<LONG=This alert is triggered if the "qstat" command on the local cluster reports that jobs managed by the TORQUE scheduler unexpectedly exist in the "Held" or "Suspended" states.  Details of stopped jobs are highlighted in red on Page III.  The GRID and BACKGROUND queues (within which jobs may be preempted by design) are exempted from this alert, although the red coloration is retained.>
 
-#<ALERT=CONDOR_STALL>
-#	<ACTIVE=NULL>
-#	<TEXT=Condor Queue Jobs Stalled (USER: [1])>
-#	<TITLE=Condor Stalled>
-#	<LONG=This alert is triggered if the "condor_q" command on the local cluster reports that jobs managed by the Condor scheduler exist in the "Held" state.  Details of stopped jobs are highlighted in red on Page III.>
+<ALERT=CONDOR_STALL>
+	<ACTIVE=TRUE>
+	<TEXT=Condor Queue Jobs Held (USER: [1])>
+	<TITLE=Condor Stalled>
+	<LONG=This alert is triggered if the "condor_q" command on the local cluster reports that jobs managed by the Condor scheduler exist in the "Held" state.  Details of stopped jobs are highlighted in red on Page III.>
 
 <ALERT=SAM_FAIL>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=SAM Tests Failing ([1]% PASS)>
 	<TITLE=SAM Failed>
 	<LONG=SAM (Service Availability Monitoring) tests (Page IV) validate connection to the CMS grid and suitability of the local cluster configuration.  This alert is triggered if less than 80% of running tests are successful for the most recent hour in which at least 30% of the expected tests are running.>
 
 <ALERT=SAM_SKIP>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=SAM Tests Not Running or Query Timed Out>
 	<TITLE=SAM Missing>
 	<LONG=This alert is triggered if less than 60% of the expected SAM tests (Page IV) have run for each of the most recent 5 hours.  It may be superseded by the more severe error "SAM Failed" if at least 30% of tests have run in a recent hour.  Note that data is typically unavailable for the most current 2-3 hour time interval.>
 
 <ALERT=CATS_FAIL>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=CATS Tests Failing ([1]% PASS)>
 	<TITLE=CATS Failed>
+	<EMAIL=-toback@tamu.edu>
 	<LONG=The CATS (CRAB Analysis Test Suite) subsystem (Page IV) regularly submits automated best-practice standardized job sets of various sizes via various grid clients to output on either the local or a remote host.  Results are harvested from the CMS dashboard for the most recent instance of each test that has completed all included jobs.  Any single failed job will classify the test overall as a failure and any single failed test will trigger the "CATS Failed" alert.>
 
 <ALERT=CATS_SKIP>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=CATS Tests Not Running or Query Timed Out>
 	<TITLE=CATS Missing>
-	<LONG=The Dashboard query of the CATS results (Page IV) spans the most recent week.  This alert is triggered if any of the tests has no completed results available.  This alert may alternately be attributable to a timeout in the dashboard query.>
+	<LONG=The Dhboard query of the CATS results (Page IV) spans the most recent week.  This alert is triggered if any of the tests has no completed results available.  This alert may alternately be attributable to a timeout in the dashboard query.>
 
 <ALERT=GRAB_HEART>
-	<ACTIVE=NULL>
+	<ACTIVE=TRUE>
 	<TEXT=Encountered Problems with Cluster Heartbeat Diagnostics[1]>
 	<TITLE=Cluster Heartbeat>
 	<LONG=This alert is triggered by various problems that may occur while performing a set of routine heartbeat tests (Page IV) for basic connectivity and function on the local cluster.  The list of possible violations includes: i) Inability to connect via ssh between cluster nodes; ii) Inability to detect the user file system mount; iii) Discrepancy between the file partition size reported by "df" and a defined expectation; iv); Inability to successfully complete a short "du" query of a limited scope within 15 seconds - much less than one second is nominally expected.   Additional details regarding the trigger mechanism(s) are provided within the alert.>
@@ -139,7 +140,7 @@
 #	<LONG=>
 
 #<ALERT=GRAB_LOAD>
-#	<ACTIVE=NULL>
+#	<ACTIVE=FALSE>
 #	<TEXT=Encountered Problems with Cluster Usage Load Statistics[1]>
 #	<TITLE=Cluster Load>
 #	<LONG=>

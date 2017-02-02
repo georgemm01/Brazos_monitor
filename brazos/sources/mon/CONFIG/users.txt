@@ -1,5 +1,68 @@
+sifuluo		Sifu Luo
+ulmer		Keith Ulmer
+ws13		Wei Shi
+emacdonald16	Emily MacDonald
+rl36		Ridge Liu
+benjamin.stein	Ben Stein
+danielcq	(NOT HEPX) Unknown
+cla07003	Steven Clark
+bsalmon		(NOT HEPX) Unknown
+delclos88 	(NOT HEPX) Unknown
+jacob.a.griffin Jacob Griffin
+akub19		Andrew Kubik
+ye.yuan		(NOT HEPX) Unknown
+hra288		(NOT HEPX) Unknown
+nit_dh		Nitish Dhingra
+rszoh		(NOT HEPX) 
+jonsawil 	Jon Wilson
+huiyan		(NOT HEPX) Huiyan Sang
+huidong		Hui Dong
+tdoughty1	Todd Doughty
+wpage		William Page
+cdickerson94	Charles Dickerson
+lpernie		Luca Pernie
+rathjd		Denis Rathjens
+joseph.orr 	(NOT HEPX) Unknown
+ss567		Sourav Sen
+fabri-net_id.92	Fabrizio Cimaglia
+long9930	Zhongqu Long
+aewhatley	(NOT HEPX) Unknown
+hekejun2013 	(NOT HEPX) Unknown
+jordi.abante 	(NOT HEPX) Unknown
+jrdv009		Jose R. Dimas Valle
+radar33		Ryan Mueller
+chinuy		(NOT HEPX) Chih-Peng Wu
+yskang 		(NOT HEPX) Unknown
+rcrosby		(NOT HEPX) Unknown
+zbhsea	        (NOT HEPX) Unknown
+yuanwenlong	Wenlong Yuan
+benjaminarimichlin Benjamin Michlin
+bmichlin	Benjamin Michlin
+melop 		(NOT HEPX) Unknown
+jrorie		Jamal Rorie
+gastonjr	(NOT HEPX) Unknown
+hekejon2013 	(NOT HEPX) Unknown
+pwinslow	Peter Winslow
+anh-dao		DebugTestUser
+flyoverearth 	(NOT HEPX) Unknown
+jcb244 		(NOT HEPX) Unknown
+rahm6496	(NOT HEPX) Unknown
+kourui1987	(NOT HEPX) Unknown
+tomczak		Adam Tomczak
+adamfidel 	(NOT HEPX) Adam Fidel
+jwatson1993	James Reed Watson
+mchristy	(NOT HEPX) Matthew Christy
+treydock 	(NOT HEPX) Trey Dockendorf
+kolev20n	Nikolay Kolev
+demattia 	Marco De Mattia
+wuxinyang1990	(NOT HEPX) Wu Xinyang
+shsze 		(NOT HEPX) Sing-Hoi Sze
+mufen 		(NOT HEPX) Mu-Fen Hsieh
+d-singleton 	(NOT HEPX) D. Singleton
+tmcmahon	(NOT HEPX) McMahon
 rish 		Rishi Patel
 sven.dildick 	Sven Dildick
+dildick		Sven Dildick
 matthewcollie21	Mathew Collie
 xujizhao 	Xuji Zhao
 jagster247 	Jordan A. Garrison
@@ -10,9 +73,10 @@ alicelik 	Ali Celik
 ilyao 		Ilya Osipenkov
 taohuang 	Tao Huang
 amin.nj 	Nick Amin
-fsheleanor9 	Shuhua Fu (NOT HEPX)
+fsheleanor9 	(NOT HEPX) Shuhua Fu
 goodell		Joseph Goodell
 ghoshtatha	Tathagata Ghosh
+andrea 		Andrea Delgado
 delgado_andrea	Andrea Delgado
 castaned	Alfredo Castaneda
 alfredohernandez	Alfredo Castaneda
@@ -21,6 +85,7 @@ cms3277		Joseph Goodell
 whiteran16	Randy White
 georgemm01	Jorge Morales
 moralesm	Jorge Morales
+ar273 		Anthony Rose
 anthony.rose	Anthony Rose
 spock136	Sean Wu
 arller		Kechen Wang
@@ -53,7 +118,7 @@ armarotta	Angela Marotta
 tatarinov	Aysen Tatarinov
 galmes		Guy T. Almes
 fnal-snihur	Robert Snihur
-s-johnson5	Steve Johnson
+s-johnson5	(NOT HEPX) Steve Johnson
 sakuma		Tai Sakuma
 khotilovich	Vadim Khotilovich
 pakhotin	Yuriy Pakhotin
@@ -1176,7 +1241,6 @@ cms1498	Marco Dias
 cms1499	Marek Zielinski
 cms1500	Marguerite B. Tonjes
 cms1501	Matthew Kress
-cms1502	Matthew Lebourgeois
 cms1503	Matthew Norman
 cms1504	Matthew Rudolph
 cms1505	Matthew Snowball
