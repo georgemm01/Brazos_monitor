@@ -1,0 +1,491 @@
+<DIV id="disk_usage_data_anchor" style="z-index:0; display:block; position:static; height:auto; width:550px; margin:0px 138px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="height:auto; width:550px;">
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td colspan="3" class="mon_default" style="width:534px; height:16px;">HEPX Disk Store Usage &nbsp; &nbsp( 2017-02-02 13:50 CST )</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+			<td class="mon_default" style="width:166px; height:16px;">Directory</td>
+			<td class="mon_default" style="width:82px; height:16px;">Bytes</td>
+			<td class="mon_default" style="width:82px; height:16px;">Percent</td>
+			<td class="mon_default" style="width:174px; height:16px;">Date Modified</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_select_0" style="display:block; color:black; background-color:#30CCAA; cursor:pointer;" onClick="javascript:DiskUsageDataToggle(0);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#30CCAA';">
+			<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent;">
+				<DIV style="position:relative; left:0px; top:0px; width:166px; height:16px; padding:0px; display:block;">PhEDEx Monte Carlo
+					<DIV id="disk_usage_data_indicator_0_0" style="position:absolute; top:-2px; left:0px; display:block;">&rarr;</DIV>
+					<DIV id="disk_usage_data_indicator_0_1" style="position:absolute; top:-2px; left:0px; display:none;">&darr;</DIV>
+				</DIV>
+			</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">3.93 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">2.7 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px; color:inherit; background-color:transparent;">2017-01-24 15:27 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_0" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Phys14dr</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.10 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">53.3 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2016-09-13 21:03 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_1" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Tti2023upg14gs</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.16 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">29.5 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2016-10-05 05:50 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_2" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Summer12_dr53x</td>
+			<td class="mon_default" style="width:82px; height:16px;">526 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">13.1 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2016-04-26 18:58 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_3" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Hc</td>
+			<td class="mon_default" style="width:82px; height:16px;">160 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2012-06-16 02:29 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_4" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Sam</td>
+			<td class="mon_default" style="width:82px; height:16px;">6.31 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.2 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2012-06-16 01:28 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_5" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Summer11</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2014-06-05 22:59 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_6" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Gem2019upg14dr</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2015-01-08 00:00 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_7" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Summer12</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-01-24 15:27 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_8" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Runiispring16dr80</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2016-04-06 21:49 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_9" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Fall13</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2015-05-23 06:57 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_10" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Runiispring15dr74</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2016-04-26 18:57 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_11" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Spring11</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2012-02-05 19:26 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_12" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Fall11</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2015-01-07 18:51 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_13" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Runiiwinter15gs</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-01-24 15:27 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_select_1" style="display:block; color:black; background-color:#30CCAA; cursor:pointer;" onClick="javascript:DiskUsageDataToggle(1);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#30CCAA';">
+			<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent;">
+				<DIV style="position:relative; left:0px; top:0px; width:166px; height:16px; padding:0px; display:block;">PhEDEx CMS Data
+					<DIV id="disk_usage_data_indicator_1_0" style="position:absolute; top:-2px; left:0px; display:block;">&rarr;</DIV>
+					<DIV id="disk_usage_data_indicator_1_1" style="position:absolute; top:-2px; left:0px; display:none;">&darr;</DIV>
+				</DIV>
+			</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">1.19 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">0.8 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px; color:inherit; background-color:transparent;">2017-02-02 19:50 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_0" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2016g</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.07 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">90.2 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 19:50 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_1" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2012b</td>
+			<td class="mon_default" style="width:82px; height:16px;">69.0 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">5.7 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2015-08-05 21:41 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_2" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2012d</td>
+			<td class="mon_default" style="width:82px; height:16px;">50.7 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.2 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2014-10-23 22:49 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_3" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2011a</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2014-06-05 23:18 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_4" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2011b</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2014-06-05 23:21 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_5" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2012a</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2014-06-05 23:32 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_6" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2012c</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2015-01-05 18:06 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_select_2" style="display:block; color:black; background-color:#30CCAA; cursor:pointer;" onClick="javascript:DiskUsageDataToggle(2);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#30CCAA';">
+			<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent;">
+				<DIV style="position:relative; left:0px; top:0px; width:166px; height:16px; padding:0px; display:block;">PhEDEx Load Tests
+					<DIV id="disk_usage_data_indicator_2_0" style="position:absolute; top:-2px; left:0px; display:block;">&rarr;</DIV>
+					<DIV id="disk_usage_data_indicator_2_1" style="position:absolute; top:-2px; left:0px; display:none;">&darr;</DIV>
+				</DIV>
+			</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">385 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">0.3 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px; color:inherit; background-color:transparent;">2017-02-02 19:46 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_0" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">T2_FR_IPHC</td>
+			<td class="mon_default" style="width:82px; height:16px;">197 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">51.3 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 19:46 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_1" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">US_FNAL</td>
+			<td class="mon_default" style="width:82px; height:16px;">71.6 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">18.6 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 15:24 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_2" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">US_MIT</td>
+			<td class="mon_default" style="width:82px; height:16px;">28.2 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">7.3 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 14:23 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_3" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">US_Caltech</td>
+			<td class="mon_default" style="width:82px; height:16px;">17.5 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.6 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 19:27 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_4" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">US_Nebraska</td>
+			<td class="mon_default" style="width:82px; height:16px;">15.9 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.1 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 15:24 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_5" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">ES_PIC</td>
+			<td class="mon_default" style="width:82px; height:16px;">12.5 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">3.3 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 15:24 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_6" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">TW_ASGC</td>
+			<td class="mon_default" style="width:82px; height:16px;">12.5 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">3.2 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2014-11-10 12:28 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_7" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">FR_CCIN2P3</td>
+			<td class="mon_default" style="width:82px; height:16px;">9.21 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.4 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 14:38 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_8" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">US_Florida</td>
+			<td class="mon_default" style="width:82px; height:16px;">7.50 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.9 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 15:40 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_9" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">IT_CNAF</td>
+			<td class="mon_default" style="width:82px; height:16px;">5.00 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.3 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 19:10 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_10" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">US_Vanderbilt</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.50 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.6 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 16:12 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_11" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">UK_RAL</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.50 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.6 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 19:21 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_12" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">CH_CERN</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.50 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.6 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2013-11-04 18:54 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_13" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">T1_US_FNAL_Disk</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 16:11 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_14" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">T0_CH_CERN_Export</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 15:56 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_15" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">T2_DE_DESY</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 16:12 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_16" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">T2_UK_SGrid_Bristol</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 18:36 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_17" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">DE_KIT</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2013-09-19 19:33 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_select_3" style="display:block; color:black; background-color:#30CCAA; cursor:pointer;" onClick="javascript:DiskUsageDataToggle(3);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#30CCAA';">
+			<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent;">
+				<DIV style="position:relative; left:0px; top:0px; width:166px; height:16px; padding:0px; display:block;">User Output
+					<DIV id="disk_usage_data_indicator_3_0" style="position:absolute; top:-2px; left:0px; display:block;">&rarr;</DIV>
+					<DIV id="disk_usage_data_indicator_3_1" style="position:absolute; top:-2px; left:0px; display:none;">&darr;</DIV>
+				</DIV>
+			</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">130 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">89.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px; color:inherit; background-color:transparent;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_0" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Jorge Morales</td>
+			<td class="mon_default" style="width:82px; height:16px;">36.6 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">28.1 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_1" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Tao Huang</td>
+			<td class="mon_default" style="width:82px; height:16px;">18.8 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">14.4 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_2" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Alfredo Castaneda</td>
+			<td class="mon_default" style="width:82px; height:16px;">16.5 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">12.7 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_3" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Rishi Patel</td>
+			<td class="mon_default" style="width:82px; height:16px;">13.2 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">10.1 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_4" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Benjamin Michlin</td>
+			<td class="mon_default" style="width:82px; height:16px;">8.82 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">6.8 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_5" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Alexx Perloff</td>
+			<td class="mon_default" style="width:82px; height:16px;">6.15 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.7 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_6" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Luca Pernie</td>
+			<td class="mon_default" style="width:82px; height:16px;">5.49 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.2 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_7" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Marco De Mattia</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.83 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">3.7 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_8" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Tathagata Ghosh</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.82 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">3.7 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_9" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Sean Wu</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.47 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">3.4 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_10" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Jamal Rorie</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.45 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">3.4 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_11" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Xuji Zhao</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.01 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.5 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_12" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Sven Dildick</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.73 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.3 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_13" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Andrea Delgado</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.26 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_14" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Peter Winslow</td>
+			<td class="mon_default" style="width:82px; height:16px;">584 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.4 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_15" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Andrew Kubik</td>
+			<td class="mon_default" style="width:82px; height:16px;">180 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.1 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_16" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Keith Ulmer</td>
+			<td class="mon_default" style="width:82px; height:16px;">108 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.1 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_17" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Nikolay Kolev</td>
+			<td class="mon_default" style="width:82px; height:16px;">88.7 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.1 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_18" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Ziqing Hong</td>
+			<td class="mon_default" style="width:82px; height:16px;">83.0 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.1 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_19" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Charles Dickerson</td>
+			<td class="mon_default" style="width:82px; height:16px;">62.4 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_20" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Katrina Colletti</td>
+			<td class="mon_default" style="width:82px; height:16px;">40.2 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_21" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Fabrizio Cimaglia</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.81 GiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">NA</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_select_4" style="display:block; color:black; background-color:#30CCAA; cursor:pointer;" onClick="javascript:DiskUsageDataToggle(4);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#30CCAA';">
+			<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent;">
+				<DIV style="position:relative; left:0px; top:0px; width:166px; height:16px; padding:0px; display:block;">Miscellaneous
+					<DIV id="disk_usage_data_indicator_4_0" style="position:absolute; top:-2px; left:0px; display:block;">&rarr;</DIV>
+					<DIV id="disk_usage_data_indicator_4_1" style="position:absolute; top:-2px; left:0px; display:none;">&darr;</DIV>
+				</DIV>
+			</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">5.29 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">3.6 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px; color:inherit; background-color:transparent;">2017-02-02 19:39 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_0" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Temp</td>
+			<td class="mon_default" style="width:82px; height:16px;">5.29 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">100.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-01-31 22:04 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_1" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Unmerged</td>
+			<td class="mon_default" style="width:82px; height:16px;">312 KiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 19:39 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_2" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Relval</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2015-07-16 16:58 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_3" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Generator</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2012-08-10 20:20 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_4" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Supercdms</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2016-02-24 00:21 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_5" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Generators</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2012-02-04 04:07 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_6" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Test</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2014-04-28 17:36 UTC</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_7" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Results</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.00 iB</td>
+			<td class="mon_default" style="width:82px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2013-04-08 16:00 UTC</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+			<td class="mon_default" style="width:166px; height:16px;">Total</td>
+			<td class="mon_default" style="width:82px; height:16px;">146 TiB</td>
+			<td class="mon_default" style="width:82px; height:16px;">100.0 &#37;</td>
+			<td class="mon_default" style="width:174px; height:16px;">2017-02-02 19:50 UTC</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:DiskUsageDataToggleAll();" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#FFFFFF';">
+			<td colspan="3" class="mon_default" style="width:534px; height:16px; color:inherit; background-color:transparent;">&uarr; Click to Expand or Collapse Table</td>
+		</tr>
+	</table>
+</DIV>

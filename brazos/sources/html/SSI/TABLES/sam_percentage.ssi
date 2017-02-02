@@ -1,0 +1,19 @@
+
+<DIV id="sam_percentage_anchor" style="z-index:0; display:block; position:static; height:84px; width:282px; margin:0px 272px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="width:282px; height:84px;">
+		<tr class="mon_default">
+			<td class="mon_default" colspan="3" style="width:266px; height:16px;">Service Availability Percentage</td>
+		</tr>
+		<tr class="mon_default">
+			<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#20B2AA;">Day</td>
+			<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#20B2AA;">Week</td>
+			<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#20B2AA;">Month</td>
+		</tr>
+		<tr class="mon_default">
+			<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#FCC57B;">37 &#37;</td>
+			<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#BFDC81;">64 &#37;</td>
+			<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#66B055;">78 &#37;</td>
+		</tr>
+	</table>
+</DIV>
+

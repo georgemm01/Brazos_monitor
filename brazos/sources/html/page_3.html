@@ -1,0 +1,92 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head>
+
+<title>Brazos Data Analysis Site Monitoring Utility</title>
+
+<META HTTP-EQUIV="Content-Type" content="text/html;charset=utf-8">
+<META HTTP-EQUIV="Refresh" CONTENT="600">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-control" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+
+<LINK rel="stylesheet" href="CSS/mon.css" type="text/css">
+
+<STYLE type="text/css">
+A#page_3_top, A#page_3_bot,
+A#page_3_top:link, A#page_3_bot:link,
+A#page_3_top:visited, A#page_3_bot:visited {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	color: #3BB9FF;
+	background-color: inherit; }
+</STYLE>
+
+<script type="text/javascript" language="JavaScript" src="JAVASCRIPT/mon.js"></script>
+
+<script type="text/javascript" language="JavaScript" src="JAVASCRIPT/top_up/top_up-min.js"></script>
+
+<script type="text/javascript" language="JavaScript" src="JAVASCRIPT/mon_top_up.js"></script>
+
+</head>
+
+<body onLoad="javascript:MonitorInitialize();" style="margin:0px 0px; padding:0px; text-align:center; background-repeat:repeat; background-position:top left; background-image:url('IMAGES/GLOBAL/bg_W.gif');">
+
+<DIV id="tier3_mon_anchor" style="z-index:0; display:block; position:static; height:auto; width:826px; margin:20px auto; padding:0px; text-align:center; overflow:hidden; background-image:none;">
+
+<H1>Brazos Data Analysis Site Monitoring Utility</H1>
+
+<H2>&#9674; Mitchell Institute Computing on the Texas A&M Brazos Cluster &#9674;</H2>
+
+
+
+<p>
+<!--#include virtual="SSI/GLOBAL/view_page_top.ssi"-->
+<br>
+
+<p>
+<!--#include virtual="SSI/GLOBAL/time_updated_format.ssi"-->
+<br>
+
+<noscript>
+<p>
+<SPAN style="font-size:18px; font-weight:bold; color:red; background-color:transparent;">
+	Warning: You must enable JavaScript for optimal site functionality!
+</SPAN>
+<br>
+</noscript>
+
+
+<p>
+<hr>
+
+<H2>Job Status of the Brazos Cluster</H2>
+<p>
+<!--#include virtual="SSI/TABLES/job_plot.ssi"-->
+<br>
+<p>
+<!--#include virtual="SSI/TABLES/squeue_hepxjobs_data.ssi"-->
+<br>
+<p>
+<!--#include virtual="SSI/TABLES/condorq_data.ssi"-->
+<br>
+<p>
+<!--#include virtual="SSI/TABLES/user_jobs_plot_data.ssi"-->
+<br>
+
+<p>
+<hr>
+
+<p>
+<!--#include virtual="SSI/GLOBAL/view_page_bot.ssi"-->
+<br>
+
+</DIV>
+
+</body>
+
+</html>
+

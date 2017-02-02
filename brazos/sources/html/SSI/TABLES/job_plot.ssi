@@ -1,0 +1,95 @@
+
+<DIV id="job_plot_anchor" style="z-index:0; display:block; position:relative; top:0px; left:0px; height:678px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<DIV id="job_plot_runtime_hour" style="z-index:-10; display:block; position:absolute; top:29px; left:3px; height:620px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:620px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a id="job_plot_leader_0_0" href="IMAGES/PLOTS/job_submitted_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_submitted_hourly.png?1486072501" alt="Submitted Jobs Summary (Last 48 Hours)" title="Submitted Jobs Summary (Last 48 Hours)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_running_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_running_hourly.png?1486072501" alt="Running Jobs Summary (Last 48 Hours)" title="Running Jobs Summary (Last 48 Hours)" width="400" height="300"></a></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_running_cpu_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_running_cpu_hourly.png?1486072501" alt="Job Runtime Days Expended per Calendar Day (Last 48 Hours)" title="Job Runtime Days Expended per Calendar Day (Last 48 Hours)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_running_cpu_efficiency_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_running_cpu_efficiency_hourly.png?1486072501" alt="Processor Usage per Expended Runtime Efficiency (Last 48 Hours)" title="Processor Usage per Expended Runtime Efficiency (Last 48 Hours)" width="400" height="300"></a></td>
+			</tr>
+		</table>
+	</DIV> 
+	<DIV id="job_plot_termination_hour" style="z-index:10; display:block; position:absolute; top:29px; left:3px; height:620px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:620px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a id="job_plot_leader_1_0" href="IMAGES/PLOTS/job_terminated_status_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_hourly.png?1486072501" alt="Job Termination Status Summary (Last 48 Hours)" title="Job Termination Status Summary (Last 48 Hours)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_terminated_status_efficiency_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_efficiency_hourly.png?1486072501" alt="Job Termination Success Efficiency (Last 48 Hours)" title="Job Termination Success Efficiency (Last 48 Hours)" width="400" height="300"></a></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_terminated_status_failed_application_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_failed_application_hourly.png?1486072501" alt="Job Termination Failure Application Diagnostics (Last 48 Hours)" title="Job Termination Failure Application Diagnostics (Last 48 Hours)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_terminated_status_failed_grid_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_failed_grid_hourly.png?1486072501" alt="Job Termination Failure Grid Diagnostics (Last 48 Hours)" title="Job Termination Failure Grid Diagnostics (Last 48 Hours)" width="400" height="300"></a></td>
+			</tr>
+		</table>
+	</DIV> 
+	<DIV id="job_plot_runtime_day" style="z-index:-10; display:block; position:absolute; top:29px; left:3px; height:620px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:620px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a id="job_plot_leader_0_1" href="IMAGES/PLOTS/job_submitted_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_submitted_daily.png?1486072501" alt="Submitted Jobs Summary (Last 45 Days)" title="Submitted Jobs Summary (Last 45 Days)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_running_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_running_daily.png?1486072501" alt="Running Jobs Summary (Last 45 Days)" title="Running Jobs Summary (Last 45 Days)" width="400" height="300"></a></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_running_cpu_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_running_cpu_daily.png?1486072501" alt="Job Runtime Days Expended per Calendar Day (Last 45 Days)" title="Job Runtime Days Expended per Calendar Day (Last 45 Days)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_running_cpu_efficiency_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_running_cpu_efficiency_daily.png?1486072501" alt="Processor Usage per Expended Runtime Efficiency (Last 45 Days)" title="Processor Usage per Expended Runtime Efficiency (Last 45 Days)" width="400" height="300"></a></td>
+			</tr>
+		</table>
+	</DIV> 
+	<DIV id="job_plot_termination_day" style="z-index:-10; display:block; position:absolute; top:29px; left:3px; height:620px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:620px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a id="job_plot_leader_1_1" href="IMAGES/PLOTS/job_terminated_status_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_daily.png?1486072501" alt="Job Termination Status Summary (Last 45 Days)" title="Job Termination Status Summary (Last 45 Days)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_terminated_status_efficiency_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_efficiency_daily.png?1486072501" alt="Job Termination Success Efficiency (Last 45 Days)" title="Job Termination Success Efficiency (Last 45 Days)" width="400" height="300"></a></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_terminated_status_failed_application_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_failed_application_daily.png?1486072501" alt="Job Termination Failure Application Status (Last 45 Days)" title="Job Termination Failure Application Status (Last 45 Days)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_terminated_status_failed_grid_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_failed_grid_daily.png?1486072501" alt="Job Termination Failure Grid Status (Last 45 Days)" title="Job Termination Failure Grid Status (Last 45 Days)" width="400" height="300"></a></td>
+			</tr>
+		</table>
+	</DIV> 
+	<DIV id="job_plot_runtime_week" style="z-index:-10; display:block; position:absolute; top:29px; left:3px; height:620px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:620px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a id="job_plot_leader_0_2" href="IMAGES/PLOTS/job_submitted_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_submitted_weekly.png?1486072501" alt="Submitted Jobs Summary (Last 52 Weeks)" title="Submitted Jobs Summary (Last 52 Weeks)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_running_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_running_weekly.png?1486072501" alt="Running Jobs Summary (Last 52 Weeks)" title="Running Jobs Summary (Last 52 Weeks)" width="400" height="300"></a></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_running_cpu_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_running_cpu_weekly.png?1486072501" alt="Job Runtime Days Expended per Calendar Day (Last 52 Weeks)" title="Job Runtime Days Expended per Calendar Day (Last 52 Weeks)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_running_cpu_efficiency_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_running_cpu_efficiency_weekly.png?1486072501" alt="Processor Usage per Expended Runtime Efficiency (Last 52 Weeks)" title="Processor Usage per Expended Runtime Efficiency (Last 52 Weeks)" width="400" height="300"></a></td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV id="job_plot_termination_week" style="z-index:-10; display:block; position:absolute; top:29px; left:3px; height:620px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:620px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a id="job_plot_leader_1_2" href="IMAGES/PLOTS/job_terminated_status_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_weekly.png?1486072501" alt="Job Termination Status Summary (Last 52 Weeks)" title="Job Termination Status Summary (Last 52 Weeks)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_terminated_status_efficiency_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_efficiency_weekly.png?1486072501" alt="Job Termination Success Efficiency (Last 52 Weeks)" title="Job Termination Success Efficiency (Last 52 Weeks)" width="400" height="300"></a></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_terminated_status_failed_application_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_failed_application_weekly.png?1486072501" alt="Job Termination Failure Application Status (Last 52 Weeks)" title="Job Termination Failure Application Status (Last 52 Weeks)" width="400" height="300"></a></td>
+				<td class="mon_default" style="width:400px; height:300px;"><a href="IMAGES/PLOTS/job_terminated_status_failed_grid_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/job_terminated_status_failed_grid_weekly.png?1486072501" alt="Job Termination Failure Grid Status (Last 52 Weeks)" title="Job Termination Failure Grid Status (Last 52 Weeks)" width="400" height="300"></a></td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV style="z-index:0; display:block; position:static; height:678px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_default" style="width:826px; height:678px;">
+			<tr class="mon_default">
+				<td class="mon_default" colspan="2" style="width:299px; height:16px;">Process Cycle Statistics</td>
+				<td class="mon_default" colspan="4" style="width:400px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TopUp.displayTopUp(document.getElementById('job_plot_leader_'+JobPlotModeIndex+'_'+JobPlotSpanIndex));" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#FFFFFF';">Click to Enlarge Images &darr;</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" colspan="6" style="width:810px; height:610px;"></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" id="job_plot_mode_select_runtime" style="width:195px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:JobPlotModeSelect(0);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(JobPlotModeIndex!=0)this.style.backgroundColor='#FFFFFF';">Initiation &amp; Runtime</td>
+				<td class="mon_default" id="job_plot_mode_select_termination" style="width:195px; height:16px; color:black; background-color:#3BB9FF; cursor:pointer;" onClick="javascript:JobPlotModeSelect(1);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(JobPlotModeIndex!=1)this.style.backgroundColor='#FFFFFF';">Termination Status</td>
+				<td class="mon_default" style="width:91px; height:16px;">&larr; Select &rarr;</td>
+				<td class="mon_default" id="job_plot_span_select_hour" style="width:93px; height:16px; color:black; background-color:#3BB9FF; cursor:pointer;" onClick="javascript:JobPlotSpanSelect(0);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(JobPlotSpanIndex!=0)this.style.backgroundColor='#FFFFFF';">Hourly</td>
+				<td class="mon_default" id="job_plot_span_select_day" style="width:93px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:JobPlotSpanSelect(1);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(JobPlotSpanIndex!=1)this.style.backgroundColor='#FFFFFF';">Daily</td>
+				<td class="mon_default" id="job_plot_span_select_week" style="width:93px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:JobPlotSpanSelect(2);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(JobPlotSpanIndex!=2)this.style.backgroundColor='#FFFFFF';">Weekly</td>
+			</tr>
+		</table>
+	</DIV>
+</DIV>
+

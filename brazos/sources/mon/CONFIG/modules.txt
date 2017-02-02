@@ -1,0 +1,170 @@
+
+<MODULE=UPGRADE>
+	<ACTIVE=TRUE>
+
+<MODULE=TRANSFER_PLOT>
+	<ACTIVE=TRUE>
+
+<MODULE=TRANSFER_DATA>
+	<ACTIVE=TRUE>
+
+<MODULE=SUBSCRIPTION_PLOT>
+	<ACTIVE=TRUE>
+
+<MODULE=SUBSCRIPTION_DATA>
+	<ACTIVE=TRUE>
+
+<MODULE=DISK_USAGE_DATA>
+	<ACTIVE=TRUE>
+	<SSH=>
+		# HEPX cluster storage
+	<COMMAND=du>
+	<DATA_DIR=/fdata/hepx/store>
+		# Slow subdirectories
+	<ISOLATE=
+		/user, /cvmfs, 
+	>
+		# TiB
+	<QUOTA=198>
+
+<MODULE=JOB_PLOT>
+	<ACTIVE=TRUE>
+
+<MODULE=QSTAT_DATA>
+	<ACTIVE=TRUE>
+	<SSH=>
+		# Full path to the qstat executable
+		# Defaults to simply "qstat"
+	<COMMAND=/usr/local/bin/qstat>
+		# Queues to tally
+	<QUEUES=grid,hepx,hepxshort,bgsc>
+	<NAMES=
+		hepxshort:HEPX SHORT,
+	>
+		# block alert for held state
+	<EXEMPT=grid,bgsc>
+
+<MODULE=CONDORQ_DATA>
+	<ACTIVE=TRUE>
+		# Run via ssh to a locally attached machine with common
+		# storage; Comment out to disable this option; port optional
+	<SSH=hurr.tamu.edu:2222>
+		# Full path to the condor_q executable
+		# Defaults to simply "condor_q"
+	<COMMAND=/apps0/osg-1.2.20/condor/bin/condor_q>
+
+<MODULE=USER_JOBS_PLOT_DATA>
+	<ACTIVE=TRUE>
+
+<MODULE=SAM_PERCENTAGE>
+	<ACTIVE=TRUE>
+
+<MODULE=HEARTBEAT_DATA>
+	<ACTIVE=TRUE>
+		# mandatory ssh test; port optional
+	<SSH=hurr.tamu.edu:2222>
+		# main cluster storage
+	<DATA_DIR=/fdata>
+		# a *small* permanent directory
+		# to test access with "du"
+	<SMALL_DIR=/fdata/hepx/store/temp>
+		# a string for matching expected
+		# disk size of the DATA_DIR
+	<PARTITION=198 TiB>
+		# alarm posted if less than this percentage is free
+	<PARTITION_PERCENT=5>
+		# alarm posted if less than this absolute space (in TiB) is free
+	<PARTITION_TIB=10>
+
+<MODULE=LOAD_DATA>
+	<ACTIVE=TRUE>
+	<CLUSTER=
+		ACTIVE:TRUE,
+		SSH:,
+		COMMAND:qnodes,
+	>
+	<HEAD_1=
+		ACTIVE:TRUE,
+		SSH:,
+		NODE:Brazos,
+		COMMAND:top,
+	>
+	<HEAD_2=
+		ACTIVE:TRUE,
+		SSH:hurr.tamu.edu:2222,
+		NODE:Hurr,
+		COMMAND:top,
+	>
+	<PROCESS_1=
+		ACTIVE:TRUE,
+		SSH:hurr.tamu.edu:2222,
+		COMMAND:ps,
+		NAME:Fraunhofer Global Filesystem,
+		MATCH:fhgfs_,
+		NODE:Hurr,
+	>
+	<PROCESS_2=
+		ACTIVE:TRUE,
+		SSH:hurr.tamu.edu:2222,
+		COMMAND:ps,
+		NAME:Globus GridFTP,
+		MATCH:globus-gridftp-,
+		NODE:Hurr,
+	>
+
+<MODULE=QUEUE_DATA>
+	<ACTIVE=TRUE>
+	<SSH=>
+		# Full path to the qstat executable
+		# Defaults to simply "qstat"
+	<COMMAND=/usr/local/bin/qstat>
+		# Queues to tally - empty default includes all
+	<QUEUES=grid,gridrt,hepx,hepxrt,hepxshort,bgsc,bgscrt>
+		# Alternate Display Names
+	<NAMES=
+		gridrt:GRID ROUTING,
+		hepxrt:HEPX ROUTING,
+		hepxshort:HEPX SHORT,
+		bgscrt:BGSC ROUTING,
+	>
+
+<MODULE=SAM_PLOT>
+	<ACTIVE=TRUE>
+	<METRICS=
+#		org.cms.SRM-AllCMS:OSG-SRMv2,
+		org.cms.SRM-GetPFNFromTFC:OSG-SRMv2,
+		org.cms.SRM-VODel:OSG-SRMv2,
+		org.cms.SRM-VOGet:OSG-SRMv2,
+		org.cms.SRM-VOGetTURLs:OSG-SRMv2,
+		org.cms.SRM-VOLs:OSG-SRMv2,
+		org.cms.SRM-VOLsDir:OSG-SRMv2,
+		org.cms.SRM-VOPut:OSG-SRMv2,
+		org.cms.WN-analysis:OSG-CE,
+		org.cms.WN-basic:OSG-CE,
+		org.cms.WN-env:OSG-CE,
+		org.cms.WN-frontier:OSG-CE,
+		org.cms.WN-mc:OSG-CE,
+		org.cms.WN-squid:OSG-CE,
+#		org.cms.WN-swinst:OSG-CE,
+#		org.cms.WN-xrootd-access:OSG-CE,
+#		org.cms.WN-xrootd-fallback:OSG-CE,
+#		org.cms.glexec.WN-gLExec:OSG-CE,
+		org.cms.WN-swinst:OSG-CE,
+#		emi.ce.CREAMCE-JobSubmit:OSG-CE,
+		org.sam.CONDOR-JobSubmit:OSG-CE,
+	>
+
+<MODULE=CATS_DATA>
+	<ACTIVE=TRUE>
+	<USERS=
+		VaikunthThukral,
+		Vaikunth,
+		JorgeMorales,
+		Moralesm,
+		KatrinaColletti,
+		Kcollett
+	>
+
+<MODULE=CLEAN_LOGS>
+	<ACTIVE=TRUE>
+

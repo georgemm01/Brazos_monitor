@@ -1,0 +1,192 @@
+	<DIV id="user_jobs_plot_data_anchor" style="z-index:0; display:block; position:static; height:auto; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="height:auto; width:826px;">
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td colspan="5" class="mon_default" style="width:810px; height:16px; color:black; background-color:#FFFFFF;">CMS Recent Job Activity on the Local Cluster by User ( 2017-02-02 21:55 UTC )</td>
+		</tr>
+		<tr class="mon_default" id="user_jobs_plot_data_element_0" style="display:none; color:black; background-color:#FFFFFF; overflow:hidden;">
+			<td colspan="5" class="mon_default" style="width:820px; height:162px; padding:0px; border-width:0px;">
+				<table class="mon_default" style="width:820px; height:162px; border-width:0px;">
+					<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+						<td colspan="8" class="mon_default" style="width:810px; height:74px;"><img class="mon_default" src="IMAGES/PLOTS/user_jobs_hour.png?1486072501" alt="Job Activity Per User (Last Hour)" title="Job Activity Per User (Last Hour)" width="810" height="74"></td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+						<td class="mon_default" style="width:166px; height:16px;">User Name</td>
+						<td class="mon_default" style="width:82px; height:16px;">Pending</td>
+						<td class="mon_default" style="width:82px; height:16px;">Running</td>
+						<td class="mon_default" style="width:82px; height:16px;">Terminated</td>
+						<td class="mon_default" style="width:82px; height:16px;">App Failed</td>
+						<td class="mon_default" style="width:82px; height:16px;">Grid Failed</td>
+						<td class="mon_default" style="width:82px; height:16px;">CPU Usage</td>
+						<td class="mon_default" style="width:82px; height:16px;">Run Hours</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=tasksTable&amp;usergridname=Jorge Morales&amp;timerange=lastDay','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#E9FBFA';">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Jorge Morales</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">6</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">100.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.00</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Totals</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">6</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">100.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.00</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr class="mon_default" id="user_jobs_plot_data_element_1" style="display:block; color:black; background-color:#FFFFFF; overflow:hidden;">
+			<td colspan="5" class="mon_default" style="width:820px; height:250px; padding:0px; border-width:0px;">
+				<table class="mon_default" style="width:820px; height:250px; border-width:0px;">
+					<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+						<td colspan="8" class="mon_default" style="width:810px; height:110px;"><img class="mon_default" src="IMAGES/PLOTS/user_jobs_day.png?1486072501" alt="Job Activity Per User (Last Day)" title="Job Activity Per User (Last Day)" width="810" height="110"></td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+						<td class="mon_default" style="width:166px; height:16px;">User Name</td>
+						<td class="mon_default" style="width:82px; height:16px;">Pending</td>
+						<td class="mon_default" style="width:82px; height:16px;">Running</td>
+						<td class="mon_default" style="width:82px; height:16px;">Terminated</td>
+						<td class="mon_default" style="width:82px; height:16px;">App Failed</td>
+						<td class="mon_default" style="width:82px; height:16px;">Grid Failed</td>
+						<td class="mon_default" style="width:82px; height:16px;">CPU Usage</td>
+						<td class="mon_default" style="width:82px; height:16px;">Run Hours</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=tasksTable&amp;usergridname=Jorge Daniel Morales Mendoza&amp;timerange=lastDay','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#E9FBFA';">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Jorge Daniel Morales Mendoza</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">30</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">24.9 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">10.7</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#B3F3F0; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=tasksTable&amp;usergridname=Jorge Morales&amp;timerange=lastDay','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#B3F3F0';">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Jorge Morales</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">6</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">13</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">2.1 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">50.4</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=tasksTable&amp;usergridname=Wei Shi&amp;timerange=lastDay','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#E9FBFA';">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Wei Shi</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">6,738</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.3 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">84.4 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">2,590</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Totals</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">6</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">6,781</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.3 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">82.6 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">2,651</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr class="mon_default" id="user_jobs_plot_data_element_2" style="display:none; color:black; background-color:#FFFFFF; overflow:hidden;">
+			<td colspan="5" class="mon_default" style="width:820px; height:339px; padding:0px; border-width:0px;">
+				<table class="mon_default" style="width:820px; height:339px; border-width:0px;">
+					<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+						<td colspan="8" class="mon_default" style="width:810px; height:147px;"><img class="mon_default" src="IMAGES/PLOTS/user_jobs_week.png?1486072501" alt="Job Activity Per User (Last Week)" title="Job Activity Per User (Last Week)" width="810" height="147"></td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+						<td class="mon_default" style="width:166px; height:16px;">User Name</td>
+						<td class="mon_default" style="width:82px; height:16px;">Pending</td>
+						<td class="mon_default" style="width:82px; height:16px;">Running</td>
+						<td class="mon_default" style="width:82px; height:16px;">Terminated</td>
+						<td class="mon_default" style="width:82px; height:16px;">App Failed</td>
+						<td class="mon_default" style="width:82px; height:16px;">Grid Failed</td>
+						<td class="mon_default" style="width:82px; height:16px;">CPU Usage</td>
+						<td class="mon_default" style="width:82px; height:16px;">Run Hours</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=tasksTable&amp;usergridname=Jorge Daniel Morales Mendoza&amp;timerange=lastWeek','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#E9FBFA';">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Jorge Daniel Morales Mendoza</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">261</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">4.6 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">13.5 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">158</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#B3F3F0; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=tasksTable&amp;usergridname=Jorge Morales&amp;timerange=lastWeek','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#B3F3F0';">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Jorge Morales</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">6</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">108</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">1.9 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">28.6 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">150</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=tasksTable&amp;usergridname=Luca Pernie&amp;timerange=lastWeek','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#E9FBFA';">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Luca Pernie</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">34,600</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">2.9 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">2.9 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">27.4 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">3,002</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#B3F3F0; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=tasksTable&amp;usergridname=Jamal Tildon Rorie&amp;timerange=lastWeek','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#B3F3F0';">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Jamal Rorie</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">374</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">49.5 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">49.5 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">9.0 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">4,996</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=tasksTable&amp;usergridname=Wei Shi&amp;timerange=lastWeek','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#E9FBFA';">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Wei Shi</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">64,559</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0.6 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">1.5 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">49.1 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">43,374</td>
+					</tr>
+					<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+						<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent">Totals</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">0</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">6</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">99,902</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">1.6 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">2.2 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">43.8 &#37;</td>
+						<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent">51,679</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:442px; height:16px; color:black; background-color:#FFFFFF;">&uarr; Click User Row for Job Details</td>
+			<td class="mon_default" style="width:82px; height:16px;">Select &rarr;</td>
+			<td class="mon_default" id="user_jobs_plot_data_select_hour" style="width:82px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:UserJobsPlotDataSelect(0);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(UserJobsPlotDataIndex!=0)this.style.backgroundColor='#FFFFFF';">Hour</td>
+			<td class="mon_default" id="user_jobs_plot_data_select_day" style="width:82px; height:16px; color:black; background-color:#3BB9FF; cursor:pointer;" onClick="javascript:UserJobsPlotDataSelect(1);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(UserJobsPlotDataIndex!=1)this.style.backgroundColor='#FFFFFF';">Day</td>
+			<td class="mon_default" id="user_jobs_plot_data_select_week" style="width:82px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:UserJobsPlotDataSelect(2);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(UserJobsPlotDataIndex!=2)this.style.backgroundColor='#FFFFFF';">Week</td>
+		</tr>
+	</table>
+</DIV>
+

@@ -1,0 +1,58 @@
+
+<DIV id="transfer_plot_anchor" style="z-index:0; display:block; position:relative; top:0px; left:0px; height:638px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<DIV id="transfer_plot_hour" style="z-index:10; display:block; position:absolute; top:29px; left:3px; height:580px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:580px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:310px;"><a id="transfer_plot_leader_0" href="IMAGES/PLOTS/transfer_quality_prod_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_quality_prod_hourly.png?1486072501" alt="PhEDEx Production Data Transfer Quality (Last 48 Hours)" title="PhEDEx Production Data Transfer Quality (Last 48 Hours)" width="400" height="310"></a></td>
+				<td class="mon_default" style="width:400px; height:310px;"><a href="IMAGES/PLOTS/transfer_quality_load_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_quality_load_hourly.png?1486072501" alt="PhEDEx Load Test Transfer Quality (Last 48 Hours)" title="PhEDEx Load Test Transfer Quality (Last 48 Hours)" width="400" height="310"></a></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:250px;"><a href="IMAGES/PLOTS/transfer_rate_prod_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_rate_prod_hourly.png?1486072501" alt="PhEDEx Production Data Transfer Rate (Last 48 Hours)" title="PhEDEx Production Data Transfer Rate (Last 48 Hours)" width="400" height="250"></a></td>
+				<td class="mon_default" style="width:400px; height:250px;"><a href="IMAGES/PLOTS/transfer_rate_load_hourly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_rate_load_hourly.png?1486072501" alt="PhEDEx Load Test Transfer Rate (Last 48 Hours)" title="PhEDEx Load Test Transfer Rate (Last 48 Hours)" width="400" height="250"></a></td>
+			</tr>
+		</table>
+	</DIV> 
+	<DIV id="transfer_plot_day" style="z-index:-10; display:block; position:absolute; top:29px; left:3px; height:580px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:580px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:310px;"><a id="transfer_plot_leader_1" href="IMAGES/PLOTS/transfer_quality_prod_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_quality_prod_daily.png?1486072501" alt="PhEDEx Production Data Transfer Quality (Last 45 Days)" title="PhEDEx Production Data Transfer Quality (Last 45 Days)" width="400" height="310"></a></td>
+				<td class="mon_default" style="width:400px; height:310px;"><a href="IMAGES/PLOTS/transfer_quality_load_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_quality_load_daily.png?1486072501" alt="PhEDEx Load Test Transfer Quality (Last 45 Days)" title="PhEDEx Load Test Transfer Quality (Last 45 Days)" width="400" height="310"></a></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:250px;"><a href="IMAGES/PLOTS/transfer_rate_prod_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_rate_prod_daily.png?1486072501" alt="PhEDEx Production Data Transfer Rate (Last 45 Days)" title="PhEDEx Production Data Transfer Rate (Last 45 Days)" width="400" height="250"></a></td>
+				<td class="mon_default" style="width:400px; height:250px;"><a href="IMAGES/PLOTS/transfer_rate_load_daily.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_rate_load_daily.png?1486072501" alt="PhEDEx Load Test Transfer Rate (Last 45 Days)" title="PhEDEx Load Test Transfer Rate (Last 45 Days)" width="400" height="250"></a></td>
+			</tr>
+		</table>
+	</DIV> 
+	<DIV id="transfer_plot_week" style="z-index:-10; display:block; position:absolute; top:29px; left:3px; height:580px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:580px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:310px;"><a id="transfer_plot_leader_2" href="IMAGES/PLOTS/transfer_quality_prod_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_quality_prod_weekly.png?1486072501" alt="PhEDEx Production Data Transfer Quality (Last 52 Weeks)" title="PhEDEx Production Data Transfer Quality (Last 52 Weeks)" width="400" height="310"></a></td>
+				<td class="mon_default" style="width:400px; height:310px;"><a href="IMAGES/PLOTS/transfer_quality_load_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_quality_load_weekly.png?1486072501" alt="PhEDEx Load Test Transfer Quality (Last 52 Weeks)" title="PhEDEx Load Test Transfer Quality (Last 52 Weeks)" width="400" height="310"></a></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:250px;"><a href="IMAGES/PLOTS/transfer_rate_prod_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_rate_prod_weekly.png?1486072501" alt="PhEDEx Production Data Transfer Rate (Last 52 Weeks)" title="PhEDEx Production Data Transfer Rate (Last 52 Weeks)" width="400" height="250"></a></td>
+				<td class="mon_default" style="width:400px; height:250px;"><a href="IMAGES/PLOTS/transfer_rate_load_weekly.png?1486072501" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_rate_load_weekly.png?1486072501" alt="PhEDEx Load Test Transfer Rate (Last 52 Weeks)" title="PhEDEx Load Test Transfer Rate (Last 52 Weeks)" width="400" height="250"></a></td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV style="z-index:0; display:block; position:static; height:638px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_default" style="width:826px; height:638px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:16px;">Production Data</td>
+				<td class="mon_default" colspan="4" style="width:400px; height:16px;">Load Tests</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" colspan="5" style="width:810px; height:570px;"></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TopUp.displayTopUp(document.getElementById('transfer_plot_leader_'+TransferPlotIndex));" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#FFFFFF';">&uarr; Click to Enlarge Images</td>
+				<td class="mon_default" style="width:91px; height:16px;">Select &rarr;</td>
+				<td class="mon_default" id="transfer_plot_select_hour" style="width:93px; height:16px; color:black; background-color:#3BB9FF; cursor:pointer;" onClick="javascript:TransferPlotSelect(0);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(TransferPlotIndex!=0)this.style.backgroundColor='#FFFFFF';">Hourly</td>
+				<td class="mon_default" id="transfer_plot_select_day" style="width:93px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TransferPlotSelect(1);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(TransferPlotIndex!=1)this.style.backgroundColor='#FFFFFF';">Daily</td>
+				<td class="mon_default" id="transfer_plot_select_week" style="width:93px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TransferPlotSelect(2);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(TransferPlotIndex!=2)this.style.backgroundColor='#FFFFFF';">Weekly</td>
+			</tr>
+		</table>
+	</DIV>
+</DIV>
+

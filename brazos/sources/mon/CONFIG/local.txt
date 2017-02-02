@@ -1,0 +1,38 @@
+
+	# Basic site specific configuration
+<KEY=CONFIG>
+		# Sets the HTML filename extension
+		# Choose 0 for '.html' or 1 for '.shtml'
+	<HTML_EXTENSION=0>
+		# The lowest level URL for the monitor user's webspace 
+	<DOCUMENT_ROOT=http://brazos.tamu.edu/~ext-jww004/>
+
+	# Basic site specific attributes 
+<KEY=SITE>
+	<NAME=The Texas A&M Tier 3 Site on the Brazos Cluster>
+		# Defaults to "Local"
+	<CLUSTER=Brazos>
+
+	# Basic CMS PhEDEx and Dashboard attributes
+<KEY=CMS>
+		# CMS query local site descriptor
+	<SITE=T3_US_TAMU>
+		# CMS query local host name(s)
+	<HOST=
+		srm.brazos.tamu.edu,
+		hurr.tamu.edu,
+		>
+		# CMS query local site group
+		# Defaults to Tier3s 
+	<GROUP=Tier3s>
+
+	# Global Alert configuration
+<KEY=ALERTS>
+		# master alert email recipient (one address)
+	<TO=joelwwalker@gmail.com>
+		# alert email sender (one address)
+	<FROM=monitor@brazos.tamu.edu>
+		# alert email carbon copy recipients (comma separated)
+		# can be overridden by per-alert configuraiton in alerts.txt
+	<COPY=toback@tamu.edu, vaikunth@tamu.edu, galmes@tamu.edu, treydock@tamu.edu, georgemm01@physics.tamu.edu, kcolletti1@physics.tamu.edu>
+

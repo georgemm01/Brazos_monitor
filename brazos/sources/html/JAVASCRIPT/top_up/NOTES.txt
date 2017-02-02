@@ -1,0 +1,4 @@
+
+The "-1" is not always needed everywhere ... the absolute, not the slide?
+Both may be traced to rounding of negative numbers?
+

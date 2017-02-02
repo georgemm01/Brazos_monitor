@@ -1,0 +1,14 @@
+
+AddType text/html .cgi
+AddHandler cgi-script .cgi
+#Options -Indexes +ExecCGI
+AcceptPathInfo On
+
+Order Deny,Allow
+
+Deny from all
+
+<Files ~ (\.cgi$)>
+Allow from all
+</Files>
+

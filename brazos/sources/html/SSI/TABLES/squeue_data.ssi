@@ -1,0 +1,91 @@
+<DIV id="cluster_queue_anchor" style="z-index:0; display:block; position:static; height:auto; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="height:auto; width:826px;">
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td colspan="5" class="mon_default" style="width:810px; height:16px;">Brazos Cluster Queue Utilization Statistics ( 2016-05-16 18:25 CST )</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+			<td class="mon_default" style="width:154px; height:16px;">Queue</td>
+			<td class="mon_default" style="width:154px; height:16px;">Accessible Cores</td>
+			<td class="mon_default" style="width:154px; height:16px;">Active Cores (Running)</td>
+			<td class="mon_default" style="width:154px; height:16px;">Requested Cores (Queued)</td>
+			<td class="mon_default" style="width:154px; height:16px;">Other Core States<br>(Held, Waiting, Exiting)</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:154px; height:16px;">STAKEHOLDER</td>
+			<td class="mon_default" style="width:154px; height:16px;">1,038</td>
+			<td class="mon_default" style="width:154px; height:16px;">66</td>
+			<td class="mon_default" style="width:154px; height:16px;">8</td>
+			<td class="mon_default" style="width:154px; height:16px;">1,112</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:154px; height:16px;">STAKEHOLDER-4G</td>
+			<td class="mon_default" style="width:154px; height:16px;">1,772</td>
+			<td class="mon_default" style="width:154px; height:16px;">60</td>
+			<td class="mon_default" style="width:154px; height:16px;">128</td>
+			<td class="mon_default" style="width:154px; height:16px;">1,960</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:154px; height:16px;">BACKGROUND</td>
+			<td class="mon_default" style="width:154px; height:16px;">1,038</td>
+			<td class="mon_default" style="width:154px; height:16px;">66</td>
+			<td class="mon_default" style="width:154px; height:16px;">8</td>
+			<td class="mon_default" style="width:154px; height:16px;">1,112</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:154px; height:16px;">BACKGROUND-4G</td>
+			<td class="mon_default" style="width:154px; height:16px;">1,772</td>
+			<td class="mon_default" style="width:154px; height:16px;">60</td>
+			<td class="mon_default" style="width:154px; height:16px;">128</td>
+			<td class="mon_default" style="width:154px; height:16px;">1,960</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:154px; height:16px;">INTERACTIVE</td>
+			<td class="mon_default" style="width:154px; height:16px;">2,810</td>
+			<td class="mon_default" style="width:154px; height:16px;">126</td>
+			<td class="mon_default" style="width:154px; height:16px;">136</td>
+			<td class="mon_default" style="width:154px; height:16px;">3,072</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:154px; height:16px;">IDHMC</td>
+			<td class="mon_default" style="width:154px; height:16px;">2,810</td>
+			<td class="mon_default" style="width:154px; height:16px;">126</td>
+			<td class="mon_default" style="width:154px; height:16px;">136</td>
+			<td class="mon_default" style="width:154px; height:16px;">3,072</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:154px; height:16px;">SERIAL</td>
+			<td class="mon_default" style="width:154px; height:16px;">212</td>
+			<td class="mon_default" style="width:154px; height:16px;">4</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">216</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:154px; height:16px;">SERIAL-LONG</td>
+			<td class="mon_default" style="width:154px; height:16px;">212</td>
+			<td class="mon_default" style="width:154px; height:16px;">4</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">216</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:154px; height:16px;">MPI-CORE8</td>
+			<td class="mon_default" style="width:154px; height:16px;">1,240</td>
+			<td class="mon_default" style="width:154px; height:16px;">56</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">1,296</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:154px; height:16px;">MPI-CORE32</td>
+			<td class="mon_default" style="width:154px; height:16px;">664</td>
+			<td class="mon_default" style="width:154px; height:16px;">40</td>
+			<td class="mon_default" style="width:154px; height:16px;">128</td>
+			<td class="mon_default" style="width:154px; height:16px;">832</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:154px; height:16px;">MPI-CORE32-4G</td>
+			<td class="mon_default" style="width:154px; height:16px;">320</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">128</td>
+			<td class="mon_default" style="width:154px; height:16px;">448</td>
+		</tr>
+	</table>
+</DIV>

@@ -1,0 +1,757 @@
+
+<DIV id="sam_plot_anchor" style="z-index:0; display:block; position:relative; top:0px; left:0px; height:345px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="width:826px; height:345px;">
+		<tr class="mon_default">
+			<td class="mon_default" colspan="2" style="width:810px; height:16px;">Service Availability Monitoring (SAM) Tests</td>
+		</tr>
+		<tr class="mon_default">
+			<td class="mon_default" style="width:400px; height:277px;">
+				<DIV id="sam_plot_hourly_anchor" style="z-index:0; display:block; position:static; height:241px; width:363px; margin:18px 19px 18px 18px; padding:0px; text-align:center; overflow:hidden;">
+					<table class="mon_thumb" style="width:363px; height:241px;">
+						<tr class="mon_thumb">
+							<td class="mon_thumb" colspan="49" style="padding:2px; width:355px; height:12px;">Itemized SAM Test Results (Last 48 Hours)</td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">SRM-GetPFNFromTFC</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">SRM-VOGet</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">SRM-VOPut</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">WN-analysis</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">WN-basic</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">WN-env</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">WN-frontier</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">WN-mc</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">WN-squid</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">WN-xrootd-fallback</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">WN-swinst</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;"><DIV style="z-index:0; display:block; position:static; height:12px; width:67px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; color:black; background-color:#FFFFFF;">CONDOR-JobSubmit</DIV></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+							<td class="mon_thumb" style="width:5px; height:16px; color:black; background-color:#FFFFFF;"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="padding:2px; width:67px; height:12px; color:black; background-color:#FFFFFF;">&uarr; SAM Metric</td>
+							<td class="mon_thumb" colspan="48" style="padding:2px; width:283px; height:12px;">
+								<DIV style="float:left; clear:none; width:50%; height:12px; margin:0px; padding:0px; text-align:left;">&larr; 2017-01-31 22:00 UTC</DIV>
+								<DIV style="float:left; clear:none; width:50%; height:12px; margin:0px; padding:0px; text-align:right;">2017-02-02 22:00 UTC &rarr;</DIV>
+							</td>
+						</tr>
+					</table>
+				</DIV>
+			</td>
+			<td class="mon_default" style="width:400px; height:277px;">
+				<DIV id="sam_plot_daily_anchor" style="z-index:0; display:block; position:static; height:241px; width:363px; margin:18px 18px 18px 19px; padding:0px; text-align:center; overflow:hidden;">
+					<table class="mon_thumb" style="width:363px; height:241px;">
+						<tr class="mon_thumb">
+							<td class="mon_thumb" colspan="45" style="padding:2px; width:355px; height:12px;">SAM Test Site Quality Summary (Last 45 Days)</td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#357C44; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F21%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F20%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 91 &#37;<br>Tuesday, 2016-12-20 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#357C44');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F22%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F21%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Wednesday, 2016-12-21 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F23%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F22%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Thursday, 2016-12-22 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F24%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F23%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Friday, 2016-12-23 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#235632; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F25%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F24%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 99 &#37;<br>Saturday, 2016-12-24 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#235632');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F26%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F25%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Sunday, 2016-12-25 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F27%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F26%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 98 &#37;<br>Monday, 2016-12-26 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F28%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F27%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Tuesday, 2016-12-27 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F29%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F28%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Wednesday, 2016-12-28 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F30%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F29%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Thursday, 2016-12-29 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F31%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F30%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 98 &#37;<br>Friday, 2016-12-30 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F01%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F31%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Saturday, 2016-12-31 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#235632; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F02%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F01%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 99 &#37;<br>Sunday, 2017-01-01 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#235632');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F03%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F02%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,446,'Daily Site Quality : 100 &#37;<br>Monday, 2017-01-02 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F04%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F03%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,454,'Daily Site Quality : 100 &#37;<br>Tuesday, 2017-01-03 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F05%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F04%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,462,'Daily Site Quality : 98 &#37;<br>Wednesday, 2017-01-04 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#E0EC97; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F06%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F05%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,470,'Daily Site Quality : 58 &#37;<br>Thursday, 2017-01-05 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#E0EC97');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#86C163; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F07%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F06%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,478,'Daily Site Quality : 73 &#37;<br>Friday, 2017-01-06 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#86C163');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#286037; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F08%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F07%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,486,'Daily Site Quality : 97 &#37;<br>Saturday, 2017-01-07 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#286037');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F09%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F08%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,494,'Daily Site Quality : 100 &#37;<br>Sunday, 2017-01-08 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#398548; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F10%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F09%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,502,'Daily Site Quality : 89 &#37;<br>Monday, 2017-01-09 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#398548');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F11%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F10%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,510,'Daily Site Quality : 98 &#37;<br>Tuesday, 2017-01-10 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F12%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F11%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,518,'Daily Site Quality : 100 &#37;<br>Wednesday, 2017-01-11 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F13%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F12%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,526,'Daily Site Quality : 100 &#37;<br>Thursday, 2017-01-12 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#B9DA7D; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F14%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F13%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,534,'Daily Site Quality : 65 &#37;<br>Friday, 2017-01-13 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#B9DA7D');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#F5A362; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F15%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F14%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,542,'Daily Site Quality : 31 &#37;<br>Saturday, 2017-01-14 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#F5A362');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F16%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F15%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,550,'Daily Site Quality : 100 &#37;<br>Sunday, 2017-01-15 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F17%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F16%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,558,'Daily Site Quality : 100 &#37;<br>Monday, 2017-01-16 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#E97E4D; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F18%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F17%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,566,'Daily Site Quality : 25 &#37;<br>Tuesday, 2017-01-17 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#E97E4D');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F19%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F18%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,574,'Daily Site Quality : 98 &#37;<br>Wednesday, 2017-01-18 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#2E6E3E; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F20%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F19%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,582,'Daily Site Quality : 94 &#37;<br>Thursday, 2017-01-19 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#2E6E3E');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#307340; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F21%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F20%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,590,'Daily Site Quality : 93 &#37;<br>Friday, 2017-01-20 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#307340');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F22%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F21%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,598,'Daily Site Quality : 98 &#37;<br>Saturday, 2017-01-21 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#2E6E3E; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F23%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F22%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 94 &#37;<br>Sunday, 2017-01-22 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#2E6E3E');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#ACD476; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F24%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F23%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 67 &#37;<br>Monday, 2017-01-23 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#ACD476');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#BD3529; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F25%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F24%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 11 &#37;<br>Tuesday, 2017-01-24 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#BD3529');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#235632; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F26%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F25%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 99 &#37;<br>Wednesday, 2017-01-25 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#235632');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F27%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F26%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 100 &#37;<br>Thursday, 2017-01-26 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F28%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F27%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 98 &#37;<br>Friday, 2017-01-27 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#9D1E1F; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F29%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F28%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 4 &#37;<br>Saturday, 2017-01-28 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#9D1E1F');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#FFDD92; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F30%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F29%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 42 &#37;<br>Sunday, 2017-01-29 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#FFDD92');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F31%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F30%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 100 &#37;<br>Monday, 2017-01-30 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#A0CE70; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F02%2F01%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F31%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 69 &#37;<br>Tuesday, 2017-01-31 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#A0CE70');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#2A653A; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F02%2F02%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F02%2F01%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 96 &#37;<br>Wednesday, 2017-02-01 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#2A653A');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#FCC57B; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F02%2F03%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=ce01.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F02%2F02%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 37 &#37;<br>Thursday, 2017-02-02 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#FCC57B');"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" colspan="45" style="padding:2px; width:355px; height:12px;">
+								<DIV style="float:left; clear:none; width:50%; height:12px; margin:0px; padding:0px; text-align:left;">&larr; 2016-12-20 00:00 UTC</DIV>
+								<DIV style="float:left; clear:none; width:50%; height:12px; margin:0px; padding:0px; text-align:right;">2017-02-03 00:00 UTC &rarr;</DIV>
+							</td>
+						</tr>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#357C44; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F21%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F20%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 91 &#37;<br>Tuesday, 2016-12-20 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#357C44');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F22%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F21%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Wednesday, 2016-12-21 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F23%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F22%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Thursday, 2016-12-22 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F24%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F23%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Friday, 2016-12-23 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#235632; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F25%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F24%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 99 &#37;<br>Saturday, 2016-12-24 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#235632');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F26%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F25%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Sunday, 2016-12-25 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F27%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F26%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 98 &#37;<br>Monday, 2016-12-26 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F28%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F27%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Tuesday, 2016-12-27 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F29%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F28%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Wednesday, 2016-12-28 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F30%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F29%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Thursday, 2016-12-29 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2016%2F12%2F31%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F30%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 98 &#37;<br>Friday, 2016-12-30 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F01%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2016%2F12%2F31%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 100 &#37;<br>Saturday, 2016-12-31 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#235632; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F02%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F01%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,438,'Daily Site Quality : 99 &#37;<br>Sunday, 2017-01-01 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#235632');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F03%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F02%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,446,'Daily Site Quality : 100 &#37;<br>Monday, 2017-01-02 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F04%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F03%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,454,'Daily Site Quality : 100 &#37;<br>Tuesday, 2017-01-03 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F05%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F04%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,462,'Daily Site Quality : 98 &#37;<br>Wednesday, 2017-01-04 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#E0EC97; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F06%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F05%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,470,'Daily Site Quality : 58 &#37;<br>Thursday, 2017-01-05 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#E0EC97');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#86C163; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F07%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F06%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,478,'Daily Site Quality : 73 &#37;<br>Friday, 2017-01-06 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#86C163');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#286037; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F08%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F07%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,486,'Daily Site Quality : 97 &#37;<br>Saturday, 2017-01-07 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#286037');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F09%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F08%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,494,'Daily Site Quality : 100 &#37;<br>Sunday, 2017-01-08 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#398548; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F10%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F09%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,502,'Daily Site Quality : 89 &#37;<br>Monday, 2017-01-09 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#398548');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F11%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F10%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,510,'Daily Site Quality : 98 &#37;<br>Tuesday, 2017-01-10 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F12%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F11%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,518,'Daily Site Quality : 100 &#37;<br>Wednesday, 2017-01-11 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F13%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F12%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,526,'Daily Site Quality : 100 &#37;<br>Thursday, 2017-01-12 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#B9DA7D; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F14%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F13%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,534,'Daily Site Quality : 65 &#37;<br>Friday, 2017-01-13 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#B9DA7D');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#F5A362; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F15%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F14%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,542,'Daily Site Quality : 31 &#37;<br>Saturday, 2017-01-14 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#F5A362');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F16%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F15%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,550,'Daily Site Quality : 100 &#37;<br>Sunday, 2017-01-15 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F17%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F16%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,558,'Daily Site Quality : 100 &#37;<br>Monday, 2017-01-16 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#E97E4D; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F18%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F17%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,566,'Daily Site Quality : 25 &#37;<br>Tuesday, 2017-01-17 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#E97E4D');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F19%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F18%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,574,'Daily Site Quality : 98 &#37;<br>Wednesday, 2017-01-18 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#2E6E3E; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F20%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F19%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,582,'Daily Site Quality : 94 &#37;<br>Thursday, 2017-01-19 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#2E6E3E');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#307340; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F21%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F20%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,590,'Daily Site Quality : 93 &#37;<br>Friday, 2017-01-20 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#307340');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F22%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F21%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,598,'Daily Site Quality : 98 &#37;<br>Saturday, 2017-01-21 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#2E6E3E; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F23%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F22%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 94 &#37;<br>Sunday, 2017-01-22 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#2E6E3E');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#ACD476; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F24%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F23%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 67 &#37;<br>Monday, 2017-01-23 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#ACD476');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#BD3529; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F25%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F24%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 11 &#37;<br>Tuesday, 2017-01-24 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#BD3529');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#235632; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F26%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F25%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 99 &#37;<br>Wednesday, 2017-01-25 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#235632');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F27%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F26%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 100 &#37;<br>Thursday, 2017-01-26 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#265B35; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F28%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F27%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 98 &#37;<br>Friday, 2017-01-27 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#265B35');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#9D1E1F; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F29%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F28%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 4 &#37;<br>Saturday, 2017-01-28 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#9D1E1F');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#FFDD92; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F30%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F29%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 42 &#37;<br>Sunday, 2017-01-29 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#FFDD92');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#215130; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F01%2F31%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F30%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 100 &#37;<br>Monday, 2017-01-30 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#215130');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#A0CE70; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F02%2F01%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F01%2F31%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 69 &#37;<br>Tuesday, 2017-01-31 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#A0CE70');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#2A653A; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F02%2F02%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F02%2F01%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 96 &#37;<br>Wednesday, 2017-02-01 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#2A653A');"></td>
+							<td class="mon_thumb" style="width:7px; height:203px; color:black; background-color:#FCC57B; cursor:pointer;" onClick="javascript:window.open('http://wlcg-sam-cms.cern.ch/templates/ember/#/historicalsmry/heatMap?end_time=2017%2F02%2F03%2000%3A00&amp;flavours=OSG-SRMv2%2COSG-CE&amp;granularity=Hourly&goup=Tier3s&amp;hostname=srm.brazos.tamu.edu&amp;profile=CMS_CRITICAL_FULL&amp;site=T3_US_TAMU&start_time=2017%2F02%2F02%2000%3A00&amp;view=Test%20History','NEW');" onMouseOver="javascript:SAMPlotOverlayShow(this,217,599,'Daily Site Quality : 37 &#37;<br>Thursday, 2017-02-02 00:00 UTC<br>Click for Itemized SAM Test<br>Results Grouped by Hour');" onMouseOut="javascript:SAMPlotOverlayHide(this,'#FCC57B');"></td>
+						</tr>
+						<tr class="mon_thumb">
+							<td class="mon_thumb" colspan="45" style="padding:2px; width:355px; height:12px;">
+								<DIV style="float:left; clear:none; width:50%; height:12px; margin:0px; padding:0px; text-align:left;">&larr; 2016-12-20 00:00 UTC</DIV>
+								<DIV style="float:left; clear:none; width:50%; height:12px; margin:0px; padding:0px; text-align:right;">2017-02-03 00:00 UTC &rarr;</DIV>
+							</td>
+						</tr>
+					</table>
+				</DIV>
+			</td>
+		</tr>
+		<tr class="mon_default">
+			<td colspan="2" class="mon_default" style="width:810px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TopUp.displayTopUp(document.getElementById('sam_plot_leader'));" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#FFFFFF';">&uarr; Plot Cells Link to Details &uarr;</td>
+		</tr>
+	</table>
+	<DIV id="sam_plot_overlay" style="z-index:10; display:none; position:absolute; top:0px; left:0px; height:48px; width:190px; margin:0px; padding:3px; border-width:2px; border-style:solid; border-color:#000000; color:#000000; background-color:#BBDDFF; text-align:center; white-space:nowrap; line-height:12px; font-size:10px; font-weight:500; font-family:Geneva,Helvetica,Verdana,sans-serif; font-variant:normal; font-style:normal; overflow:hidden;"></DIV>
+</DIV>
+

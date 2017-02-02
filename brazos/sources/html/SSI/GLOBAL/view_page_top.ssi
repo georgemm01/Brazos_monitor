@@ -1,0 +1,15 @@
+
+<SPAN style="font-size:13px; font-weight:700; color:black; background-color:inherit;">
+	<a id="page_1_top" class="mon_heading" href="page_1.html">I - Data Transfers</a>
+	<b style="font-size:15px; font-weight:700;">&nbsp;|&nbsp;</b>
+	<a id="page_2_top" class="mon_heading" href="page_2.html">II - Data Holdings</a>
+	<b style="font-size:15px; font-weight:700;">&nbsp;|&nbsp;</b>
+	<a id="page_3_top" class="mon_heading" href="page_3.html">III - Job Status</a>
+	<b style="font-size:15px; font-weight:700;">&nbsp;|&nbsp;</b>
+	<a id="page_4_top" class="mon_heading" href="page_4.html">IV - Site Availability</a>
+	<b style="font-size:15px; font-weight:700;">&nbsp;|&nbsp;</b>
+	<a id="page_5_top" class="mon_heading" href="page_5.html">V - Alerts</a>
+	<b style="font-size:15px; font-weight:700;">&nbsp;|&nbsp;</b>
+	<a id="page_0_top" class="mon_heading" href="all.html">View All</a>
+</SPAN>
+

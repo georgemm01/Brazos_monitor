@@ -1,0 +1,21 @@
+<DIV id="heartbeat_anchor" style="z-index:0; display:block; position:static; height:84px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="height:84px; width:826px;">
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td colspan="5" class="mon_default" style="width:810px; height:16px;">Brazos Cluster Heartbeat Tests ( 2017-02-02 16:05 CST )</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+			<td class="mon_default" style="width:154px; height:16px;">SSH Link</td>
+			<td class="mon_default" style="width:154px; height:16px;">FData Filesystem Mount</td>
+			<td class="mon_default" style="width:154px; height:16px;">FData Partition Usage</td>
+			<td class="mon_default" style="width:154px; height:16px;">"DU" Query Status</td>
+			<td class="mon_default" style="width:154px; height:16px;">"DU" Query Timer</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:154px; height:16px; color:black; background-color:green;">Pass</td>
+			<td class="mon_default" style="width:154px; height:16px; color:black; background-color:green;">Pass</td>
+			<td class="mon_default" style="width:154px; height:16px; color:black; background-color:green;">234 TiB of 293 TiB</td>
+			<td class="mon_default" style="width:154px; height:16px; color:black; background-color:green;">Pass</td>
+			<td class="mon_default" style="width:154px; height:16px; color:black; background-color:green;">44.4 Seconds</td>
+		</tr>
+	</table>
+</DIV>

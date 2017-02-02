@@ -1,0 +1,116 @@
+
+BODY {
+	color: black;
+	background-color: white;
+	background-image: none;
+	cursor: default;
+	font-size: 12px;
+	font-weight: 500;
+	font-family: Geneva,Helvetica,Verdana,sans-serif;
+	font-variant: normal;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none; }
+
+A.mon_heading, A.mon_heading:link, A.mon_heading:visited {
+	color: inherit;
+	background-color: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	margin: 0px;
+	padding: 4px;
+	border: 0px;
+	text-decoration:none; }
+
+A.mon_heading:hover, A.mon_heading:active {
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+	color: #3BB9FF;
+	background-color: inherit; }
+
+A.mon_default, A.mon_default:link, A.mon_default:visited {
+	color: inherit;
+	background-color: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	text-decoration:underline; }
+
+A.mon_default:hover, A.mon_default:active {
+	color: #3BB9FF;
+	background-color: inherit;
+	text-decoration:none; }
+
+IMG.mon_default {
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+	border-style: solid;
+	border-color: black;
+	background-color: white; }
+
+TABLE.mon_default {
+	font-size: 12px;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: black;
+	border-collapse: separate;
+	border-spacing: 0px;
+	background-color: white; }
+
+TABLE.mon_inner {
+	font-size: 12px;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+	border-style: solid;
+	border-color: black;
+	border-collapse: separate;
+	border-spacing: 0px;
+	background-color: white; }
+
+TABLE.mon_thumb {
+	font-size: 9px;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	background-color: white; }
+
+TR.mon_default {
+	background-color: white; }
+
+TR.mon_thumb {
+	background-color: white; }
+
+TD.mon_default {
+	margin: 0px;
+	padding: 4px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	background-color: inherit; }
+
+TD.mon_inset {
+	margin: 0px;
+	padding: 16px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	background-color: inherit; }
+
+TD.mon_thumb {
+	margin: 0px;
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	background-color: inherit; }
+

@@ -1,0 +1,13 @@
+<DIV id="disk_usage_data_anchor" style="z-index:0; display:block; position:static; height:84px; width:350px; margin:0px 238px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="height:84px; width:350px;">
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td colspan="1" class="mon_default" style="width:350px; height:16px;"> Total Disk Usage ( 2017-02-02 16:05 CST )</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+			<td colspan="1" class="mon_default" style="width:350px; height:16px;">FData Partition Usage</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td colspan="1" class="mon_default" style="width:350px; height:16px; color:black; background-color:green;">234 TiB of 293 TiB</td>
+		</tr>
+	</table>
+</DIV>

@@ -1,0 +1,45 @@
+
+<DIV id="subscription_plot_anchor" style="z-index:0; display:block; position:relative; top:0px; left:0px; height:318px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<DIV id="subscription_plot_hour" style="z-index:10; display:block; position:absolute; top:29px; left:3px; height:260px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:260px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:250px;"><a id="subscription_plot_leader_0" href="IMAGES/PLOTS/subscription_queued_prod_hourly.png?1346169904" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/subscription_queued_prod_hourly.png?1346169904" alt="PhEDEx Queued Production Data Volume (Last 48 Hours)" title="PhEDEx Queued Production Data Volume (Last 48 Hours)" width="400" height="250"></a></td>
+				<td class="mon_default" style="width:400px; height:250px;"><a href="IMAGES/PLOTS/subscription_resident_prod_hourly.png?1346169904" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/subscription_resident_prod_hourly.png?1346169904" alt="PhEDEx Resident Production Data Volume (Last 48 Hours)" title="PhEDEx Resident Production Data Volume (Last 48 Hours)" width="400" height="250"></a></td>
+			</tr>
+		</table>
+	</DIV> 
+	<DIV id="subscription_plot_day" style="z-index:-10; display:block; position:absolute; top:29px; left:3px; height:260px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:260px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:250px;"><a id="subscription_plot_leader_1" href="IMAGES/PLOTS/subscription_queued_prod_daily.png?1346169904" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/subscription_queued_prod_daily.png?1346169904" alt="PhEDEx Queued Production Data Volume (Last 45 Days)" title="PhEDEx Queued Production Data Volume (Last 45 Days)" width="400" height="250"></a></td>
+				<td class="mon_default" style="width:400px; height:250px;"><a href="IMAGES/PLOTS/subscription_resident_prod_daily.png?1346169904" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/subscription_resident_prod_daily.png?1346169904" alt="PhEDEx Resident Production Data Volume (Last 45 Days)" title="PhEDEx Resident Production Data Volume (Last 45 Days)" width="400" height="250"></a></td>
+			</tr>
+		</table>
+	</DIV> 
+	<DIV id="subscription_plot_week" style="z-index:-10; display:block; position:absolute; top:29px; left:3px; height:260px; width:820px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:820px; height:260px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:250px;"><a id="subscription_plot_leader_2" href="IMAGES/PLOTS/subscription_queued_prod_weekly.png?1346169904" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/subscription_queued_prod_weekly.png?1346169904" alt="PhEDEx Queued Production Data Volume (Last 52 Weeks)" title="PhEDEx Queued Production Data Volume (Last 52 Weeks)" width="400" height="250"></a></td>
+				<td class="mon_default" style="width:400px; height:250px;"><a href="IMAGES/PLOTS/subscription_resident_prod_weekly.png?1346169904" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/subscription_resident_prod_weekly.png?1346169904" alt="PhEDEx Resident Production Data Volume (Last 52 Weeks)" title="PhEDEx Resident Production Data Volume (Last 52 Weeks)" width="400" height="250"></a></td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV style="z-index:0; display:block; position:static; height:318px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_default" style="width:826px; height:318px;">
+			<tr class="mon_default">
+				<td class="mon_default" colspan="5" style="width:810px; height:16px;">Production Data</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" colspan="5" style="width:810px; height:250px;"></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:400px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TopUp.displayTopUp(document.getElementById('subscription_plot_leader_'+SubscriptionPlotIndex));" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#FFFFFF';">&uarr; Click to Enlarge Images</td>
+				<td class="mon_default" style="width:91px; height:16px;">Select &rarr;</td>
+				<td class="mon_default" id="subscription_plot_select_hour" style="width:93px; height:16px; color:black; background-color:#3BB9FF; cursor:pointer;" onClick="javascript:SubscriptionPlotSelect(0);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(SubscriptionPlotIndex!=0)this.style.backgroundColor='#FFFFFF';">Hourly</td>
+				<td class="mon_default" id="subscription_plot_select_day" style="width:93px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:SubscriptionPlotSelect(1);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(SubscriptionPlotIndex!=1)this.style.backgroundColor='#FFFFFF';">Daily</td>
+				<td class="mon_default" id="subscription_plot_select_week" style="width:93px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:SubscriptionPlotSelect(2);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(SubscriptionPlotIndex!=2)this.style.backgroundColor='#FFFFFF';">Weekly</td>
+			</tr>
+		</table>
+	</DIV>
+</DIV>
+
