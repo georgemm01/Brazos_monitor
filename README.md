@@ -1,6 +1,9 @@
 
 # Brazos Copy of the CMS Tier3 Site Monitor 
 
+The [Mithcell Institute Computing](http://mitchcomp.physics.tamu.edu/) through the [Brazos Cluster](http://brazos.tamu.edu/) provides computing resources to the [Mitchell Institute for Fundamental Physics and Astronomy](http://mitchell.tamu.edu/), at the [Texas A&M University](http://www.tamu.edu/).  This monitor is a most useful tool to make sure that our high throughput cluster is working efficiently, you can see it live here: (http://hepx.brazos.tamu.edu/)[http://hepx.brazos.tamu.edu/], and you can see some status and history notes [here](http://mitchcomp.physics.tamu.edu/status_perf/status_perf.php). 
+
+
 #### Source code by Joel W. Walker, updated and adapted by Jorge D. Morales
 
 For problems regarding adaptions to the Brazos Cluster contact Jorge D. Morales (via gitHub)
@@ -53,10 +56,6 @@ For installing in Brazos:
 	## Then add and save the following: 
 	* * * * * . ${HOME}/.bashrc && ${BRAZOS_BASE_PATH}${BRAZOS_CGI_PATH}/_Perl/brazos.pl > /dev/null 2>&1
 	```
-
-The [http://mitchcomp.physics.tamu.edu/](Mithcell Institute Computing) through the [http://hepx.brazos.tamu.edu/](Brazos Cluster) provides computing resources to the [http://mitchell.tamu.edu/](Mitchell Institute for Fundamental Physics and Astronomy), of the [http://www.tamu.edu/](Texas A&M University).  This monitor is a most useful tool to make sure that our high throughput cluster is working efficiently, you can see it live here: [http://hepx.brazos.tamu.edu/](http://hepx.brazos.tamu.edu/) 
-
-
 
 
 ___
