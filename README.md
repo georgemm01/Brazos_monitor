@@ -57,6 +57,8 @@ For installing in Brazos:
 	* * * * * . ${HOME}/.bashrc && ${BRAZOS_BASE_PATH}${BRAZOS_CGI_PATH}/_Perl/brazos.pl > /dev/null 2>&1
 	```
 
+If you wish to update or fix any features, first make a copy of your own. Then install it and fix the problems. Once you are happy, checkout a development branch, push in your changes/updates, and create a merge/pull request so that they are verified and propagated to **master**. 
+
 
 ___
 
