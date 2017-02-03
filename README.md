@@ -7,7 +7,7 @@ For problems regarding adaptions to the Brazos Cluster contact Jorge D. Morales 
 
 For installing in Brazos: 
 
-1. Make sure that the account hosting the monitor has a public_html directory that is broadcasting to the web
+1. Make sure that the account hosting the monitor has a public_html directory that is broadcasting to the web.
 
 2. Make a direcotry in public_html named cgi-bin:   
 	```
@@ -53,6 +53,10 @@ For installing in Brazos:
 	## Then add and save the following: 
 	* * * * * . ${HOME}/.bashrc && ${BRAZOS_BASE_PATH}${BRAZOS_CGI_PATH}/_Perl/brazos.pl > /dev/null 2>&1
 	```
+
+The [http://mitchcomp.physics.tamu.edu/](Mithcell Institute Computing) through the [http://hepx.brazos.tamu.edu/](Brazos Cluster) provides computing resources to the [http://mitchell.tamu.edu/](Mitchell Institute for Fundamental Physics and Astronomy), of the [http://www.tamu.edu/](Texas A&M University).  This monitor is a most useful tool to make sure that our high throughput cluster is working efficiently, you can see it live here: [http://hepx.brazos.tamu.edu/](http://hepx.brazos.tamu.edu/) 
+
+
 
 
 ___
