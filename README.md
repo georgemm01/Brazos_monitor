@@ -5,6 +5,56 @@
 
 For problems regarding adaptions to the Brazos Cluster contact Jorge D. Morales (via gitHub)
 
+For installing in Brazos: 
+
+1. Make sure that the account hosting the monitor has a public_html directory that is broadcasting to the web
+
+2. Make a direcotry in public_html named cgi-bin:   
+	```
+	$ mkdir ~/public_html/cgi-bin
+	```
+
+3. Clone this repository in your home area:   
+	```
+	$ git clone https://github.com/georgemm01/Brazos_monitor.git
+	```
+
+4. Copy the brazos directory in your home area:  
+	```
+	$ cp ~/Brazos_monitor/brazos ~/.
+	```
+
+5. Go to the brazos directory and run the configuration script. It should detect the locations of public_html and cgi-bin, just acknowledge with *Y*:  
+	```
+	$ cd ~/brazos
+	$ ./configure.pl
+	```
+
+6. Compile the libraries and the monitor (this should just work painlessly by fetching the PERL libraries with cpan):
+	```
+	$ make
+	```
+
+7. It's set up! Now double check your configuration files, go to the CONFIG area and view/edit them:
+	``` 
+	$ cd ~/mon/CONFIG
+	$ ls 
+	```
+
+8. Once you are happy with the configs, test your monitor. Go to the _Perl scripts location_, and run it:  
+	```
+	$ cd ~/public_html/cgi-bin/mon/_Perl
+	$ ./brazos.pl -all 
+	```
+
+9. If you are setting it up to be running continously, then set up your crontab to execute it as frequently as desired: 
+	``` 
+	$ crontab -e
+	## Then add and save the following: 
+	* * * * * . ${HOME}/.bashrc && ${BRAZOS_BASE_PATH}${BRAZOS_CGI_PATH}/_Perl/brazos.pl > /dev/null 2>&1
+	```
+
+
 ___
 
 ### The orginal README file from the source: 
@@ -99,7 +149,9 @@ CRAB submission scripts.
 Once your data downloads have been tested and your preferred configuration of active modules
 is established, it is time to register the monitor with the crontab job scheduler.
 The following line should be added verbatim to the monitor user's crontab:
+```
 * * * * * . ${HOME}/.bashrc && ${BRAZOS_BASE_PATH}${BRAZOS_CGI_PATH}/_Perl/brazos.pl > /dev/null 2>&1
+```
 
 Note that although the monitor is triggered by this command once each minute, most cycles will
 pass without any action being taken.  The most rapidly refreshed statistics are handled on a five
