@@ -1,7 +1,7 @@
 
 # Brazos Copy of the CMS Tier3 Site Monitor 
 
-The [Mithcell Institute Computing](http://mitchcomp.physics.tamu.edu/) through the [Brazos Cluster](http://brazos.tamu.edu/) provides computing resources to the [Mitchell Institute for Fundamental Physics and Astronomy](http://mitchell.tamu.edu/), at the [Texas A&M University](http://www.tamu.edu/).  This monitor is a most useful tool to make sure that our high throughput cluster is working efficiently, you can see it live here: (http://hepx.brazos.tamu.edu/)[http://hepx.brazos.tamu.edu/], and you can see some status and history notes [here](http://mitchcomp.physics.tamu.edu/status_perf/status_perf.php). 
+The [Mitchell Institute Computing](http://mitchcomp.physics.tamu.edu/) through the [Brazos Cluster](http://brazos.tamu.edu/) provides computing resources to the [Mitchell Institute for Fundamental Physics and Astronomy](http://mitchell.tamu.edu/), at the [Texas A&M University](http://www.tamu.edu/).  This monitor is a most useful tool to make sure that our high throughput cluster is working efficiently, you can see it live here: (http://hepx.brazos.tamu.edu/)[http://hepx.brazos.tamu.edu/], and you can see some status and history notes [here](http://mitchcomp.physics.tamu.edu/status_perf/status_perf.php). 
 
 
 #### Source code by Joel W. Walker, updated and adapted by Jorge D. Morales
