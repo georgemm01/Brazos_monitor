@@ -15,7 +15,7 @@ The [Mitchell Institute Computing](http://mitchcomp.physics.tamu.edu/) through t
 
 1. Make sure that the account hosting the monitor has a public_html directory that is broadcasting to the web.
 
-2. Make a direcotry in public_html named cgi-bin:   
+2. Make a directory in public_html named cgi-bin:   
 	```
 	$ mkdir ~/public_html/cgi-bin
 	```
