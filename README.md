@@ -1,14 +1,17 @@
 
-# Brazos Copy of the CMS Tier3 Site Monitor 
+Brazos Copy of the CMS Tier3 Site Monitor 
+===
 
 The [Mitchell Institute Computing](http://mitchcomp.physics.tamu.edu/) through the [Brazos Cluster](http://brazos.tamu.edu/) provides computing resources to the [Mitchell Institute for Fundamental Physics and Astronomy](http://mitchell.tamu.edu/), at the [Texas A&M University](http://www.tamu.edu/).  This monitor is a most useful tool to make sure that our high throughput cluster is working efficiently, you can see it live here: (http://hepx.brazos.tamu.edu/)[http://hepx.brazos.tamu.edu/], and you can see some status and history notes [here](http://mitchcomp.physics.tamu.edu/status_perf/status_perf.php). 
 
+*Source code by* **Joel W. Walker**, *updated and adapted by* **Jorge D. Morales**
 
-#### Source code by Joel W. Walker, updated and adapted by Jorge D. Morales
+#### Before you begin:
+- Likely you are using this guide because you will be working in improving and maintaining the monitor. So you'll need two get a ```public_html``` directory under your home area, that is boradcasting somewhere on the internet (so that you can point to your browser and see your code working). To do that contact the **BRAZOS ADMINS: BRAZOS-HELP@listserv.tamu.edu** and explain your needs.  
 
-For problems regarding adaptions to the Brazos Cluster contact Jorge D. Morales (via gitHub)
+- For problems regarding adaptions to the Brazos Cluster contact Jorge D. Morales (via gitHub)
 
-For installing in Brazos: 
+### Guide for Setting up in Brazos
 
 1. Make sure that the account hosting the monitor has a public_html directory that is broadcasting to the web.
 
@@ -27,9 +30,11 @@ For installing in Brazos:
 	$ cp ~/Brazos_monitor/brazos ~/.
 	```
 
-5. Go to the brazos directory and run the configuration script. It should detect the locations of public_html and cgi-bin, just acknowledge with *Y*:  
+5. Go to the brazos directory, make a couple missing directories, and run the configuration script. It should detect the locations of public_html and cgi-bin, just acknowledge with *Y*:  
 	```
 	$ cd ~/brazos
+	$ mkdir sources
+	$ mkdir sources/targets
 	$ ./configure.pl
 	```
 
