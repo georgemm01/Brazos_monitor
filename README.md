@@ -7,7 +7,7 @@ The [Mitchell Institute Computing](http://mitchcomp.physics.tamu.edu/) through t
 *Source code by* **Joel W. Walker**, *updated and adapted by* **Jorge D. Morales**
 
 #### Before you begin:
-- Likely you are using this guide because you will be working in improving and maintaining the monitor. So you'll need two get a ```public_html``` directory under your home area, that is boradcasting somewhere on the internet (so that you can point to your browser and see your code working). To do that contact the **BRAZOS ADMINS: BRAZOS-HELP@listserv.tamu.edu** and explain your needs.  
+- Likely you are using this guide because you will be working in improving and maintaining the monitor. So you'll need to get a ```public_html``` directory under your home area, and it should be boradcasting somewhere on the internet (so that you can point to your browser and see your code working). To do that, contact the **BRAZOS ADMINS: BRAZOS-HELP@listserv.tamu.edu** and explain your needs.  
 
 - For problems regarding adaptions to the Brazos Cluster contact Jorge D. Morales (via gitHub)
 
