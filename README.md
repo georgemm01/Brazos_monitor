@@ -11,7 +11,9 @@ The [Mitchell Institute Computing](http://mitchcomp.physics.tamu.edu/) through t
 
 - For problems regarding adaptions to the Brazos Cluster contact Jorge D. Morales (via gitHub)
 
-### Guide for Setting up in Brazos
+## Guide for Setting up in Brazos
+
+### Installation 
 
 1. Make sure that the account hosting the monitor has a public_html directory that is broadcasting to the web.
 
@@ -43,17 +45,31 @@ The [Mitchell Institute Computing](http://mitchcomp.physics.tamu.edu/) through t
 	$ make
 	```
 
-7. It's set up! Now double check your configuration files, go to the CONFIG area and view/edit them:
+Your monitor should be installed now. Next you'll have to tune the configuration files.  
+
+
+### Configuration
+
+7. Now double check your configuration files, go to the CONFIG area and view/edit them:
 	``` 
 	$ cd ~/mon/CONFIG
 	$ ls 
 	```
+7.a First you should tune the `local.txt` file. Change the following variables: 
+	i. DOCUMENT_ROOT (under KEY=CONFIG section): replace the URL of your public html monitor path
+	ii. TO, FROM, COPY (under KEY=ALERTS section): replace the emails you wish to send alerts to, you may leave the FROM email as is
+	iii. For now you do not need to change any others, but if the cluster configurations were to change you may wish to review this (for example changing the name of the SE or CE hostnames). 
+
+7.b Next, fix the `modules.txt` file. This one turns on/off and configures specific values of multiple sections of the monitor (for example looking at disk quotas, looking at queues, etc). You will have to know current values of the cluster like total size of /fdata, HEPX group quota, cluster partitions, etc. You may leave all values as they are, and compare to the live hepx monitor configuration (located here: `/home/hepxmon/mon/CONFIG`), so that your settings match the latest cluster settings. 
+
+### Run the Monitor Executables
 
 8. Once you are happy with the configs, test your monitor. Go to the _Perl scripts location_, and run it:  
 	```
 	$ cd ~/public_html/cgi-bin/mon/_Perl
 	$ ./brazos.pl -all 
 	```
+### Set up for running periodically/automatically 
 
 9. If you are setting it up to be running continously, then set up your crontab to execute it as frequently as desired: 
 	``` 
