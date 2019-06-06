@@ -56,9 +56,13 @@ Your monitor should be installed now. Next you'll have to tune the configuration
 	$ ls 
 	```
 7.a First you should tune the `local.txt` file. Change the following variables: 
+	
 	i. DOCUMENT_ROOT (under KEY=CONFIG section): replace the URL of your public html monitor path
+	
 	ii. TO, FROM, COPY (under KEY=ALERTS section): replace the emails you wish to send alerts to, you may leave the FROM email as is
+	
 	iii. For now you do not need to change any others, but if the cluster configurations were to change you may wish to review this (for example changing the name of the SE or CE hostnames). 
+
 
 7.b Next, fix the `modules.txt` file. This one turns on/off and configures specific values of multiple sections of the monitor (for example looking at disk quotas, looking at queues, etc). You will have to know current values of the cluster like total size of /fdata, HEPX group quota, cluster partitions, etc. You may leave all values as they are, and compare to the live hepx monitor configuration (located here: `/home/hepxmon/mon/CONFIG`), so that your settings match the latest cluster settings. 
 
